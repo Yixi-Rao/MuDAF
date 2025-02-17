@@ -1,0 +1,17 @@
+{
+    "narrativeqa": {
+        "max_length": 128
+    },
+    "qasper": {
+        "max_length": 128
+    },
+    "hotpotqa": {
+        "max_length": 32
+    },
+    "2wikimqa": {
+        "max_length": 32
+    },
+    "musique": {
+        "max_length": 32
+    }
+}
