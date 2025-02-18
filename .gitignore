@@ -1,0 +1,10 @@
+*.txt
+*.log
+*.npy
+*.pyc
+/logs
+/output
+*/__pycache__
+*/tmp
+/external
+!requirements.txt

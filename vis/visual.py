@@ -26,12 +26,9 @@ def load_hf_model(model_name):
     
     return model
 
-# DEFAULT_EOS = [". ", "! ", "? ", "\n"]
 DEFAULT_EOS = ["</", "\n"]
 
 def preprocess(text, use_default_eos):
-    # 分离出第一句话
-    # 排除 Mr. Mrs. Dr. 等缩写的干扰
     if use_default_eos:
         EOS_str = DEFAULT_EOS
     else:
@@ -48,10 +45,10 @@ def preprocess(text, use_default_eos):
 if __name__ == '__main__':
     
     argparser = ArgumentParser()
-    argparser.add_argument("--check_file", type=str, default="results/longbench_hotpotqa_result_llama3.1_qk_contrast_n.score.json")
-    argparser.add_argument("--prompt_file", type=str, default="hotpotqa_e_inputs.jsonl", required=True)
+    argparser.add_argument("--check_file", type=str, default="results/longbench_hotpotqa_result_Llama3.1-8B-MuDAF.score.json")
+    argparser.add_argument("--prompt_file", type=str, default="hotpotqa_inputs.jsonl", required=True)
     argparser.add_argument("--dataset", type=str, default="hotpotqa")
-    argparser.add_argument("--model", type=str, default="/data/local/EQnA_STCA/Users/v-weihaoliu/models/Llama-3.1-8B-Instruct")
+    argparser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
     argparser.add_argument("--use_default_eos", action="store_true", default=False)
     argparser.add_argument("--save_suffix", type=str, default=None)
     argparser.add_argument("--chunk_size", type=int, default=64)
@@ -83,8 +80,6 @@ if __name__ == '__main__':
         
         print(f"Start Visulizing... {i}")
         time1 = time()
-        # meta_info = item['meta_info']
-        # meta_info['chunk_size'] = args.chunk_size
         question = prompt.split("Question:")[1].split("Answer:")[0].strip()
         inputs = tokenizer(prompt, return_tensors="pt")
         tokenized_text = inputs['input_ids'][0]
@@ -101,12 +96,8 @@ if __name__ == '__main__':
             
             chunk_ids.append(p_ids)
             passage_index += 1
-        # import pdb; pdb.set_trace()    
         chunk_ids.append(len(tokenizer.encode(prompt[:prompt.index("\nAnswer the question based on the given passages.")+1])))
         chunk_ids.append(len(tokenizer.encode(prompt)))
-        
-        
-        # import pdb; pdb.set_trace()
         print(item)
         print(f"len(tokenized_text): {len(tokenized_text)}")
         print(f"Chunk_ids: {chunk_ids}")

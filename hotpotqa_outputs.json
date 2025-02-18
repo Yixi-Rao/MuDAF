@@ -1,0 +1,3124 @@
+[
+    {
+        "id": 0,
+        "question": "Which case was brought to court first Miller v. California or Gates v. Collier ?",
+        "answer": "Miller v. California",
+        "passages": [
+            "(1) Trusty system (prison)        | (False)",
+            "(2) Brockmeyer v. Dun &amp; Bradstreet        | (False)",
+            "(3) Miller v. California        | (True)",
+            "(4) Gasser v MISAT        | (False)",
+            "(5) Adams v. Burke        | (False)",
+            "(6) Jones v. Cunningham        | (False)",
+            "(7) Cheff v. Mathes        | (False)",
+            "(8) Gates v. Collier        | (False)",
+            "(9) WN Hillas &amp; Co Ltd v Arcos Ltd        | (False)",
+            "(10) Fletcher v. Peck        | (False)"
+        ]
+    },
+    {
+        "id": 1,
+        "question": "The actor that plays Phileas Fogg in \"Around the World in 80 Days\", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?",
+        "answer": "Charles L. Clifford",
+        "passages": [
+            "(1) The Real Glory        | (True)",
+            "(2) Jay Sheffield        | (False)",
+            "(3) David Niven        | (False)",
+            "(4) Phileas Fogg snacks        | (False)",
+            "(5) Around the World in 80 Days (2004 film)        | (False)",
+            "(6) Jules Verne Trophy        | (False)",
+            "(7) Around the World in 80 Days (2009 TV series)        | (False)"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Prior to playing for Michigan State, Keith Nichol played football for a school located in what city?",
+        "answer": "Norman",
+        "passages": [
+            "(1) John Macklin        | (False)",
+            "(2) Don Coleman (offensive tackle)        | (False)",
+            "(3) 2006 Michigan State Spartans football team        | (False)",
+            "(4) Oklahoma Sooners        | (True)",
+            "(5) Keith Nichol        | (False)",
+            "(6) Michigan State University College of Law        | (False)",
+            "(7) Lyle Rockenbach        | (False)",
+            "(8) Rudy Rosatti        | (False)",
+            "(9) 1966 Notre Dame vs. Michigan State football game        | (False)",
+            "(10) David Hollister        | (False)"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Gary L. Bennett was a part of the space missions that have a primary destination of what celestial body?",
+        "answer": "Sun",
+        "passages": [
+            "(1) Gary L. Bennett        | (True)",
+            "(2) Planetary protection        | (True)",
+            "(3) Transit (astronomy)        | (True)",
+            "(4) Roche limit        | (False)",
+            "(5) Ulysses (spacecraft)        | (True)"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Was Atom Egoyans biggest commercial success on stage or on film?",
+        "answer": "erotic thriller film",
+        "passages": [
+            "(1) Rasel        | (False)",
+            "(2) For Those Who Think Young (album)        | (False)",
+            "(3) Zooey Deschanel filmography        | (False)",
+            "(4) Self Control (album)        | (False)",
+            "(5) Chloe (film)        | (True)",
+            "(6) Atom Egoyan        | (False)",
+            "(7) Saif Ali Khan        | (False)",
+            "(8) John Dunning (film producer)        | (False)",
+            "(9) Neethu        | (False)"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?",
+        "answer": "Parliament",
+        "passages": [
+            "(1) David Faber (politician)        | (True)",
+            "(2) Marina Yannakoudakis        | (True)",
+            "(3) Jonathan Aitken        | (True)",
+            "(4) Christine Hamilton        | (True)",
+            "(5) Gyles Brandreth        | (True)",
+            "(6) Keith Raffan        | (True)",
+            "(7) Democratic Party (Denmark)        | (False)",
+            "(8) Baron Dunleath        | (True)",
+            "(9) Celebrity Fifteen to One        | (False)",
+            "(10) Bossom baronets        | (True)"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Thirukkalacherry is a village in which Indian town?",
+        "answer": "Tharangambadi",
+        "passages": [
+            "(1) Masilamaniswara Temple, Thiruvaduthurai        | (False)",
+            "(2) Bylakuppe        | (False)",
+            "(3) Birgunj        | (False)",
+            "(4) Pasupatheeswarar Temple, Aavoor        | (False)",
+            "(5) Tharangambadi        | (True)",
+            "(6) Thirukkalacherry        | (True)",
+            "(7) Suryanar Kovil        | (False)",
+            "(8) Sawaare Sabke Sapne... Preeto        | (False)",
+            "(9) Buckingham Archeological Site        | (False)",
+            "(10) Paravakkal        | (False)"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Which is a flowering plant, Pueraria or Pleiospilos?",
+        "answer": "Pleiospilos",
+        "passages": [
+            "(1) Pueraria        | (False)",
+            "(2) Pleiospilos nelii        | (True)",
+            "(3) Pleiospilos simulans        | (True)",
+            "(4) Pleiospilos        | (True)",
+            "(5) Pleiospilos bolusii        | (True)"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?",
+        "answer": "2013",
+        "passages": [
+            "(1) Jerry A. Johnson        | (True)",
+            "(2) Midwestern Baptist Theological Seminary        | (False)",
+            "(3) Temple Baptist Seminary        | (True)",
+            "(4) Russell D. Moore        | (True)",
+            "(5) Ethics &amp; Religious Liberty Commission        | (True)",
+            "(6) Trillia Newbell        | (False)",
+            "(7) Benjamin L. Merkle        | (False)",
+            "(8) Frank Stagg (theologian)        | (False)",
+            "(9) Baptist Theological Seminary at Richmond        | (False)",
+            "(10) Lee Rutland Scarborough        | (False)"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "For which band, was the female member of Fitz and The Tantrums, the front woman for ten years ?",
+        "answer": "The Rebirth",
+        "passages": [
+            "(1) Fitz and The Tantrums        | (False)",
+            "(2) Blood, Sweat &amp; 3 Years        | (False)",
+            "(3) Out of My League        | (False)",
+            "(4) James King (musician)        | (False)",
+            "(5) Spencer Ludwig        | (False)",
+            "(6) Michael Fitzpatrick (musician)        | (False)",
+            "(7) HandClap        | (False)",
+            "(8) Elina Siirala        | (False)",
+            "(9) Songs for a Breakup, Vol. 1        | (False)",
+            "(10) Noelle Scaggs        | (True)"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "When was the American singer, songwriter, record producer, dancer and actress born who's second studio album is Chapter II?",
+        "answer": "October 13, 1980",
+        "passages": [
+            "(1) Like a Virgin (album)        | (False)",
+            "(2) Chapter II (Ashanti album)        | (False)",
+            "(3) Chapter II (Benga album)        | (False)",
+            "(4) Rock wit U (Awww Baby)        | (False)",
+            "(5) Guillotine IV (The Final Chapter)        | (False)",
+            "(6) Capítulo II: Brinca        | (False)",
+            "(7) Ashanti (singer)        | (True)"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "The Greatest Event in Television History aired on the channel that was founded by whom?",
+        "answer": "Betty Cohen",
+        "passages": [
+            "(1) NPO Best        | (False)",
+            "(2) Jessica Biel        | (False)",
+            "(3) Charisma (horse)        | (False)",
+            "(4) John Ranelagh        | (False)",
+            "(5) Cartoon Network        | (True)",
+            "(6) The Greatest Event in Television History        | (False)",
+            "(7) Allan Wicks        | (False)",
+            "(8) 2005 World Series of Poker        | (False)",
+            "(9) ER (TV series)        | (False)"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Who starred in her final film role in the 1964 film directed by the man who also did Vera Cruz and Kiss Me Deadly?",
+        "answer": "Mary Astor",
+        "passages": [
+            "(1) Robert Aldrich        | (False)",
+            "(2) Hush… Hush, Sweet Charlotte        | (True)",
+            "(3) A Kiss for Corliss        | (False)",
+            "(4) The Ambulance        | (False)",
+            "(5) Vera Cruz (film)        | (False)",
+            "(6) Ten Tall Men        | (False)",
+            "(7) Enteng the Dragon        | (False)",
+            "(8) O Cangaceiro        | (False)"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Finally includes the song that peaked at what on the US Hot 100",
+        "answer": "number five",
+        "passages": [
+            "(1) Finally (CeCe Peniston song)        | (True)",
+            "(2) Y.R.N. (Young Rich Niggas)        | (False)",
+            "(3) Tyga discography        | (False)",
+            "(4) Wobble (song)        | (False)",
+            "(5) Finally (CeCe Peniston album)        | (True)",
+            "(6) Light Poles and Pine Trees        | (False)",
+            "(7) Sam Hunt discography        | (False)",
+            "(8) Finger Eleven        | (False)",
+            "(9) Nu Nu        | (False)",
+            "(10) Birdman discography        | (False)"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What are some other areas that share a common deer species with the forests of Mara and Mondrem?",
+        "answer": "New Zealand, Canada, the United States, the Falkland Islands, and Peru.",
+        "passages": [
+            "(1) Fallow deer        | (False)",
+            "(2) Moose        | (False)",
+            "(3) White-bellied musk deer        | (False)",
+            "(4) Sri Lankan sambar deer        | (False)",
+            "(5) Forests of Mara and Mondrem        | (False)"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Professional cyclist Sara Symington competed in which Olympic Games held in Sydeney, Australia?",
+        "answer": "2000 Summer Olympic Games",
+        "passages": [
+            "(1) Sven Nys        | (False)",
+            "(2) Anton Villatoro        | (False)",
+            "(3) Jennifer Parilla        | (False)",
+            "(4) Kurt Betschart        | (False)",
+            "(5) Eddy Schepers        | (False)",
+            "(6) 2000 Summer Olympics        | (False)",
+            "(7) List of Olympic Games host cities        | (False)",
+            "(8) Jelle Nijdam        | (False)",
+            "(9) Kuwait national under-23 football team        | (False)",
+            "(10) Sara Symington        | (False)"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Which retired Argentine footballer who played as a forward was a main player for Valencia CF?",
+        "answer": "Claudio Javier López",
+        "passages": [
+            "(1) José Daniel Valencia        | (False)",
+            "(2) Mariano Campodónico        | (False)",
+            "(3) Luis Artime        | (False)",
+            "(4) José Aveiro        | (False)",
+            "(5) List of Valencia CF Femenino seasons        | (False)",
+            "(6) Higinio Ortúzar        | (False)",
+            "(7) 1998–99 Valencia CF season        | (False)",
+            "(8) Mario Kempes        | (False)",
+            "(9) Claudio López (footballer)        | (True)",
+            "(10) 2002–03 Valencia CF season        | (False)"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "What actor was also a president that Richard Darman worked with when they were in office?",
+        "answer": "George H. W. Bush",
+        "passages": [
+            "(1) Bobbie Kilberg        | (True)",
+            "(2) List of domestic buildings by G. E. Street        | (False)",
+            "(3) Ronald Reagan        | (True)",
+            "(4) Timeline of the presidency of Gerald Ford        | (False)",
+            "(5) Richard Darman        | (True)",
+            "(6) President of Vietnam        | (False)"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "The song that came out ahead of The Wanted's \"Lightning\" on the UK Singles Chart was featured on which album?",
+        "answer": "\"Talk That Talk\"",
+        "passages": [
+            "(1) Honey to the Bee        | (False)",
+            "(2) Clean Bandit discography        | (False)",
+            "(3) We Found Love        | (False)",
+            "(4) Lightning (song)        | (False)",
+            "(5) The Wanted discography        | (False)",
+            "(6) Gabrielle Aplin discography        | (False)",
+            "(7) Gold Dust (DJ Fresh song)        | (False)",
+            "(8) Grace Kelly (song)        | (False)",
+            "(9) Royal Blood discography        | (False)"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Name a member of a British-American supergroup who recored a version of Nobody's child in 1990",
+        "answer": "Bob Dylan",
+        "passages": [
+            "(1) Nobody for Everybody        | (False)",
+            "(2) Alina Margolis-Edelman        | (False)",
+            "(3) Sarah Polley        | (False)",
+            "(4) Graham Nash        | (False)",
+            "(5) Nobody's Child: Romanian Angel Appeal        | (False)",
+            "(6) Shoppin' from A to Z        | (False)",
+            "(7) Nobody's Child (song)        | (False)",
+            "(8) Traveling Wilburys        | (True)"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "What Friday night programming block included what collective series that includes \"Whatever Happened to... Robot Jones?\"?",
+        "answer": "Cartoon Cartoon Fridays",
+        "passages": [
+            "(1) Whatever Happened, Happened        | (False)",
+            "(2) SNICK        | (False)",
+            "(3) CBS Block Party        | (False)",
+            "(4) Bob Ferris (Likely Lads)        | (False)",
+            "(5) Whatever Happened to... Robot Jones?        | (False)",
+            "(6) Whatever Happened to ...?        | (False)",
+            "(7) Whatever Happened to Old-Fashioned Love        | (False)",
+            "(8) Richard J. Maybury        | (False)",
+            "(9) The New CBS Tuesday Night Movies        | (False)",
+            "(10) Cartoon Cartoons        | (True)"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "Where does the city situated where Kellyville Ridge is located?",
+        "answer": "on the Cumberland Plain",
+        "passages": [
+            "(1) Shreekhandpur        | (False)",
+            "(2) Orosháza        | (False)",
+            "(3) Cachoeirinha        | (False)",
+            "(4) Rancho Cucamonga, California        | (False)",
+            "(5) Witbank        | (False)",
+            "(6) Geography of Thiruvananthapuram        | (False)",
+            "(7) Kellyville Ridge, New South Wales        | (False)",
+            "(8) Halkarni        | (False)",
+            "(9) Lansing, Kansas        | (False)",
+            "(10) City of Blacktown        | (True)"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "Oak Beach, New York and Great South Bay are both situated between what same island?",
+        "answer": "Long Island",
+        "passages": [
+            "(1) Lower South Bay, New York        | (True)",
+            "(2) Jones Beach Island        | (True)",
+            "(3) Oak Beach–Captree, New York        | (True)",
+            "(4) South Oyster Bay        | (True)",
+            "(5) Short Beach (New York)        | (False)",
+            "(6) Oak Beach Inn        | (True)",
+            "(7) Great South Bay        | (True)",
+            "(8) Great South Bay Bridge        | (True)",
+            "(9) Oak Beach, New York        | (True)",
+            "(10) Gilgo-Oak Beach-Captree, New York        | (True)"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Who is a guest in the final two episodes of season eighteen of South Park?",
+        "answer": "PewDiePie",
+        "passages": [
+            "(1) Egypt (TV series)        | (False)",
+            "(2) HappyHolograms        | (True)",
+            "(3) List of Girls und Panzer episodes        | (False)",
+            "(4) The Forgotten (TV series)        | (False)",
+            "(5) List of Boston Public episodes        | (False)",
+            "(6) Survivor Africa: Panama        | (False)",
+            "(7) Good Bye, Radar        | (False)",
+            "(8) Suomen Robinson 2005        | (False)",
+            "(9) Rehash (South Park)        | (True)",
+            "(10) South Park (season 2)        | (False)"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "Vol. 1, edited by J. J. Clancy, London, Irish Press Agency, 1888\n‘The Position of the Irish Tenant’, Contemporary Review, Vol.LVI, July 1889\nShort Lessons on the Irish Question;  or, The leaflets of the Irish Press Agency, Vol.1, Nos.1–102, edited by J. J. Clancy,  London, Irish Press Agency, 1890\n‘The Question of the Irish Leadership’, Contemporary Review, Vol.LIX, March 1891\n‘The Financial Aspects of Home Rule’, Contemporary Review, Vol.LXIII, January 1893\n‘The Housing Problem:  How to Solve It’,  Speech delivered at the meeting of the Central branch of the United Irish League on 6 Nov 1907,  Dublin, United Irish League, 1907\nThe Irish Party and the Budget:  A Vindication, Dublin, Sealy, Bryers and Walker, 1910\nThe Home Rule Act:  A Statement of its Provisions, Dublin, United Irish League, 1917\nPassage 6:\nCharles Johnstone\nCharles Johnstone (c. 1719–1800) was an Irish novelist. Prevented by deafness from practising at the Irish Bar, he went to India, where he was proprietor of a newspaper. He wrote one successful book, Chrysal, or the Adventures of a Guinea, a somewhat sombre satire.\n\nLife\nBorn at Carrigogunnell, County Limerick about 1719, he was educated at Trinity College, Dublin, but is not known to have taken a degree. He was called to the bar, but extreme deafness prevented his practice except as a chamber lawyer, where he did not succeed. He began to write as a living.In May 1782, Johnstone sailed for India, with a dangerous shipwreck on the voyage. He found employment in writing for the Bengal newspaper press, under the signature of \"Oneiropolos\". He became in time joint proprietor of a journal, and prospered. He died at Calcutta about 1800.\n\nWorks\nJohnstone's major work, entitled Chrysal, or the Adventures of a Guinea, and frequently reprinted, appeared in 4 vols., London, 1760–65. The first and second volumes had been written during a visit to George Edgcumbe, 3rd Baron Edgcumbe in Devon. The book, a succès de scandale, claimed to reveal political secrets, and to expose the profligacy of well-known public characters.Johnstone was also the author of:\nThe Reverie, or a Flight to the Paradise of Fools, 2 vols. London, 1762.\nThe History of Arsaces, Prince of Betlis, 2 vols. 1774.\nThe Pilgrim, or a Picture of Life, 2 vols. 1775.\nHistory of John Juniper, Esq., alias Juniper Jack, 3 vols. 1781.\n\nSee also\nHellfire Club\nPassage 7:\nThomas O'Shaughnessy\nSir Thomas Lopdell O'Shaughnessy, KC (22 December 1850 – 7 March 1933) was the last Recorder of Dublin in Ireland.\n\nEarly life\nO'Shaughnessy was born on 22 December 1850 in Dublin, son of Thomas O'Shaughnessy and Mary Lopdell. He married Catherine Trueman in 1879 and they had four children. He died at his home in Fitzwilliam Square, Dublin on 7 March 1933. Educated at Queens College Galway, he was called to the Irish Bar in 1874 and to the English Bar by Middle Temple in 1894.\n\nLegal career\nO'Shaughnessy carried out his practice on the Connaught and North Eastern Circuit. He served as counsel to the plaintiffs in relation to the disastrous rail accident during a school outing from Armagh to Newry. O'Shaughnessy won a great reputation from this trial, and took silk (an informal term for Queen's Counsel) soon after. For fifteen years, he was one of the most influential, effective and well-paid barristers of the Dublin Four Courts, and was regarded as a mentor to younger barristers.Maurice Healy remarked that there was a rather unfriendly rivalry between himself and William Huston Dodd as to which of them was entitled to be called \"Leader of the Bar\". He was sworn in as Recorder of Dublin in 1905. He would be the last to hold this position, a role which stretched back to James Stanihurst in 1564. The Recordership was abolished in 1924 and O'Shaughnessy became a judge in the High Court of the Irish Free State. He resigned in 1925 and received a knighthood in 1927. He was a Bencher of the King's Inns and was sworn in as a member of the Irish Privy Council in 1912. He was a member of the Reform Club.\nPassage 8:\nRobbie Tucker\nRobbie Tucker (born April 5, 2001) is an American actor. His best known role to date is that of Fenmore Baldwin on the CBS soap opera The Young and the Restless. Tucker has also starred on other series, such as Criminal Minds, FlashForward and It's Always Sunny in Philadelphia. He has also appeared in the films Prom and Little Fockers.\nIn 2012, Tucker was nominated at the 33rd Young Artist Awards for his performance in Prom and won for his role in The Young and the Restless.He is also the brother of actress Jillian Rose Reed.\n\nFilmography\nPassage 9:\nIt's Always Sunny in Philadelphia\nIt's Always Sunny in Philadelphia is an American sitcom created by Rob McElhenney and developed with Glenn Howerton for FX. It premiered on August 4, 2005, and was moved to FXX beginning with the ninth season in 2013. It stars Charlie Day, Howerton, McElhenney, Kaitlin Olson, and Danny DeVito. The series follows the exploits of \"The Gang\", a group of narcissistic and sociopathic friends who run the Irish dive bar Paddy's Pub in South Philadelphia, Pennsylvania, but spend most of their free time drinking, scheming, arguing amongst themselves, and plotting elaborate cons against others, and at times each other, for personal benefit, financial gain, revenge, or simply out of boredom.\nWith its 15th season, the series became the longest-running live-action American comedy series, replacing The Adventures of Ozzie and Harriet, which ran for 14 seasons (435 episodes) between 1952 and 1966. In December 2020, the series was renewed for a total of four additional seasons, bringing it to 18 seasons. The 16th season premiered on June 7, 2023.The show has received critical acclaim, with many lauding the cast performances and dark humor. It has amassed a large cult following.\n\nPlot\nThe series follows a group of misfit, narcissistic sociopaths, referred to as \"The Gang\", who run a meager, unsuccessful Irish bar called Paddy's Pub in the neighborhood of South Philadelphia. The Gang originally consists of janitor Charlie Kelly (Charlie Day), bouncer Mac (Rob McElhenney), and bartender Dennis Reynolds (Glenn Howerton), the three of whom also own Paddy's Pub, in addition to Dennis' twin sister Dee Reynolds (Kaitlin Olson), a struggling actress who works as a waitress there. In season 2, they are joined by Frank Reynolds (Danny DeVito), an eccentric millionaire and the neglectful father of the Reynolds twins, who takes over most of the ownership of the bar. He soon becomes the financial catalyst for the Gang, often funding many of the Gang's over-complicated plots, while simultaneously succumbing to the brazen depravity of the group.\nEach member of The Gang exhibits unethical behavior and anti-social traits such as extreme selfishness, pathological dishonesty, narcissism, aggression, excessive drinking and substance abuse, unregulated emotions, cruelty, and absolutely no regard for the people around them, while also displaying acute codependency, stupidity, and a surprising lack of awareness of basic social norms. The comedy of the show emerges from these extreme character traits resulting in conflicts that lead The Gang into absurd, dark and painfully embarrassing situations, typically ending with them getting their comeuppance, but never learning their lesson. This allows the show to mine a variety of socio-political and economic issues for satire and dark humor, while keeping the characters in a state of relative stasis conducive to the long-running sitcom format.\nEpisodes usually find The Gang hatching elaborate schemes and regularly conspiring, against both outsiders and one another, for personal gain, revenge, or simply schadenfreude. They habitually inflict physical and psychological pain on anyone who crosses their path, even each other, yet always return to the status quo at Paddy's Pub because they have alienated the rest of society and have only each other's company in the end. The Gang has no sense of shame when attempting to get what they want and often engage in activities that others would find humiliating, disgusting, or shocking. Some of these situations include pretending to be disabled, becoming addicted to crack cocaine in order to qualify for welfare, attempted cannibalism, kidnapping, waterboarding, blackface, blackmail, stalking, grave robbing, hiding naked inside a couch to eavesdrop on people, tricking a man into giving his daughter a lap dance, foraging naked in the sewers for rings and coins, impersonating police officers to extort civilians, creating a cult, secretly feeding someone their dead pet, plugging their open wounds with trash, setting an apartment full of people on fire and nailing the exit shut, taking out life insurance on a suicidal person, and lying about having AIDS in order to get priority access to water park rides. In an angry summation of their circumstances during one such escapade, Dennis laments The Gang's dynamic:\n\nWe immediately escalate everything to a ten... somebody comes in with some preposterous plan or idea, then all of a sudden everyone's on the gas, nobody's on the brakes, nobody's thinking, everyone's just talking over each other with one idiotic idea after another! Until, finally, we find ourselves in a situation where we've broken into somebody's house – and the homeowner is home!\nWith rare exceptions, Paddy's Pub generates limited revenue. Most stay away from the establishment due to the numerous stabbings that have taken place. The few regular customers have been known to serve themselves. The Gang has been known to close Paddy's for extended periods without warning. When the bar is open, they shirk their respective jobs' responsibilities and choose to drink instead. Paddy's is only able to stay in business because of Frank's financial backing, government bailouts and tax fraud.\n\nCast and characters\nThe show features a core cast of five characters (The Gang) and a recurring cast of colorful side characters, including the Waitress, Cricket, the McPoyles, the Ponderosas, the Lawyer and various family members like Mrs. Kelly, Mrs. Mac and Uncle Jack Kelly, who cross paths and interact with the Gang in increasingly unhinged ways as the show progresses.\n\nMain\nCharlie Day as Charlie Kelly, co-owner and janitor of Paddy's Pub. He is a childhood friend of Mac, and high school friend of Dennis and Dee. He lives in squalor with Frank in a run-down, vermin-infested apartment, and has deep-seated psychological problems, partly due to substance abuse from huffing paint and glue, and partly due to his complicated family background possibly involving child abuse. He has an extensive history of pica and regularly eats various items not meant for human consumption, such as cat food, stickers, paint, and bleach. Due to his general lack of intelligence and his illiteracy, he is arguably the simplest member of The Gang. Despite this, Charlie is a naturally gifted musician, a self-proclaimed expert in \"bird law\" and possibly the only competent worker at Paddy's with his knack for unorthodox maintenance practices (\"Charlie Work\"). He also has an unhealthy obsession with \"The Waitress\", a recurring character who finds his interest in her creepy.\nGlenn Howerton as Dennis Reynolds, co-owner and the main bartender of Paddy's Pub, in addition to being Dee's twin brother and Frank's son. Originally the most intelligent and normal-seeming of the three co-owners, Dennis is slowly revealed to be the most narcissistic and psychopathic of The Gang. Dennis is extremely superficial, selfish, vain and abrasive. His predatory nature is often depicted through numerous attempts to seduce various women; which, when successful, result in him gaslighting and emotionally abusing them in order to win over their favor before inevitably dumping them once he has had sex with them (\"The D.E.N.N.I.S. System\"). It is strongly hinted at times that Dennis may secretly be a serial killer, though this remains ambiguous as a running gag. In season 10, he is diagnosed with borderline personality disorder, though he frequently denies this and believes himself to be completely rational, and is convinced that he is in complete control of everything and everyone around him, going as far as to label himself a 'golden god'. In the season 12 finale, Dennis reveals to the rest of the gang that he has an infant son, and moves to North Dakota to raise him. He returns to Philadelphia in season 13, supposedly supporting his family from a distance.\nRob McElhenney as Ronald \"Mac\" McDonald, co-owner and self-proclaimed bouncer of Paddy's Pub. He is Charlie's childhood friend and Dennis's high school friend. The son of a convicted felon who has been in prison for much of Mac's life, he frequently attempts to demonstrate his toughness and refers to himself as the \"sheriff of Paddy's\". Deeply insecure, Mac constantly seeks the approval of those around him, especially his father, his apathetic and emotionally absent mother, and Dennis, his roommate. He suffers from extreme bouts of body dysmorphia, and has been depicted at various weights throughout the course of the series: prior to the beginning of Season 7, he gained 60 pounds (27 kg) and was diagnosed with Type 2 diabetes, and when he finally returned to a healthy weight in the following season, he admitted he misses being fat, as he believed he had come across as \"scary\" to people. In Season 13, he is noticeably fit and physically stronger, though it is quickly revealed his motives for attaining his shape was strictly due to his intense desire for acceptance from the rest of the Gang. He often brags about his hand-to-hand combat skills, but typically flees from physical confrontation and is usually depicted as the most cowardly of the gang. Mac is a Roman Catholic, though he often espouses strong Christian fundamentalist opinions, despite his often amoral behavior, such as casual sex with numerous women, including Dennis's and Dee's mother. Though it is frequently insinuated Mac harbors homosexual feelings, he maintained an adamant denial of any such proclivity, much to the gang's annoyance, until he comes out in season 12. Later episodes reveal that Mac is sexually attracted to his best friend, Dennis.\nKaitlin Olson as Deandra \"Sweet Dee\" Reynolds, waitress and sometimes bartender at Paddy's Pub, as well as Dennis's twin sister and Frank's daughter. Though initially depicted as The Gang's 'the voice of reason' in the debut season, she gradually loses any sense of moral fortitude that she once had, and is frequently shown to be just as prejudiced and depraved as her male friends by the end of season 1, arguably becoming the most petty member of the group, often plotting against others whom she deems more successful than herself in a vain effort to boost her own image. Dee wore a back brace in high school, leaving her with the nickname \"The Aluminum Monster\", and she is frequently referred to by the gang as a bird. Dee lives alone in an apartment. Though often the butt of the gang's jokes, she frequently involves herself in their schemes, perhaps due to her constant need for approval and attention from her peers. She does not hold any ownership stake in the bar – perhaps due to the gang's various prejudices against her, but also in part to her desire to become a professional actress/comedian (an ambition she consistently fails to achieve due to her debilitating stage fright and her general lack of any apparent talent). In multiple episodes, it is referenced that Dee set her college roommate on fire, and is often portrayed as the most physically violent of the group. Despite expressing outward disgust at her brother's more predatory behavior, later episodes reveal Dee not to be above such behavior herself.\nDanny DeVito as Frank Reynolds, legal father of Dennis and Dee Reynolds, and the majority owner of Paddy's Pub soon after his introduction in season 2 onward. Frank is a millionaire and often funds and enables The Gang's worst schemes and impulses, just to feel a sense of youthfulness and energy. He was once a successful businessman with a long history of illegal operations and dealings with sordid characters, but chooses to abandon that life and redeem himself after leaving his \"whore wife\", Barbara Reynolds. It is revealed at the end of season 2 that Dennis and Dee are products of an affair and not actually his biological children. He has since embraced his \"feral\" nature and describes himself as \"fringe class\". Despite his substantial financial resources, he chooses to share a decrepit studio apartment with Charlie, where they sleep together on a pullout couch and have a surprisingly affectionate pseudo-father/son relationship. The two have similar interests, such as playing the inexplicable game of Night Crawlers and foraging naked in sewers for valuables. He always arms himself with at least one loaded handgun and does not hesitate to brandish or even discharge one when provoked, and often snorts cocaine as part of his daily routine.\n\nProduction\nCharlie Day, Glenn Howerton, and Rob McElhenney first met each other while auditioning for Tuck Everlasting and other projects in New York City and, later, in Los Angeles—they were going up for similar parts, moved to Los Angeles around the same time and even had the same manager Nick Frenkel. Day and Howerton, notably, got to know each other on a car ride back from testing for That '80s Show in late 2001, when Howerton was cast as Corey Howard and Day did not get the part of his best friend. While living in New York, Day had been making comedic home movies with his friends from the Williamstown Theatre Festival—Jimmi Simpson, Nate Mooney, David Hornsby and Logan Marshall-Green, (many of whom would later go on to be involved with Sunny)—which inspired McElhenney and Howerton to want to make short films of their own with him. McElhenney, in particular, had been writing screenplays between jobs and since none of them were picked up, decided to shoot them himself with Howerton, Day and other actor friends. The decision to make their own short films was further influenced by the release of the affordable Panasonic DVX100A digital camera as well as the accessible, low-budget look of The Office (UK) and Curb Your Enthusiasm.It's Always Sunny in Philadelphia grew out of an idea for a short film conceived late one night by McElhenney \"where a friend came over to another friend's house to get sugar, and the friend tells him he has cancer, and all the guy can think about is getting his sugar and getting out of there\". He wrote the scene down before taking it to Howerton the next day to flesh it out and work on making it comedic. Day was soon roped in and the first script was written, featuring three struggling actors in LA named Charlie, Glenn and Mac, and the ensuing awkwardness around Charlie's cancer diagnosis. The home movies were shot and reshot multiple times, initially with Hornsby playing the Mac character and McElhenney behind the camera as director. It was via this process that McElhenney, Day and Howerton learned the basics of shooting, editing and other aspects of film-making. The three then developed a second \"episode\" of their home movie series, this time focused on the cringe humor from Mac's sense of shame around his relationship with Carmen, a transgender woman. At this point, it became clear that the home movies had potential as a television series, instead of the short films they were envisioned as originally. Both parts would eventually end up in the episode \"Charlie Has Cancer\".\nThe home movie was titled It's Always Sunny on TV after the a-ha song \"The Sun Always Shines on T.V.\". Howerton had been listening to the album Hunting High and Low (1985) while stretching at a Crunch gym in West Hollywood.This was then developed into a pilot called It's Always Sunny on TV and was shot on a digital camcorder and filmed in the actors' own apartments. They expanded the central cast to four people living in Los Angeles, \"a group of best friends who care so little for each other\", Howerton said.It was believed the pilot was shot with a budget of just $200, but Day would later comment, \"We shot it for nothing... I don't know where this $200 came from... We were a bunch of kids with cameras running around shooting each other and [the] next thing you know, we're eleven years in and we're still doing the show.\" This pilot was shopped by the actors around various studios, their pitch being simply showing the DVD of the pilot to executives. After viewing the pilot, FX Network ordered the first season. The show was budgeted at $450,000 an episode, less than a third of a network standard, using Panasonic's DVX100 MiniDV prosumer video camera. The original concept had \"the gang\" being out-of-work actors with the theme song being a cha-cha version of \"Hooray for Hollywood\"; however there were too many shows at the time with a similar premise. \"The network came to us and said, 'We don't want a show about actors,' and we said, 'Fine, let's put it somewhere else,'\" McElhenney explained. \"I'm from Philly, let's put it in Philly, and we'll make it about a bar, because that's a job where you can have lots of free time and still have income that could explain how these people can sustain themselves.\" Prior to Kaitlin Olson joining the show, the character Sweet Dee was originally played by Jordan Reid, who at the time was the girlfriend of McElhenney, but was recast after they broke up. The title was later changed to reflect that, in the unaired pilot, the gang had been rewritten as bar owners in Philadelphia, instead of actors in LA.\nAfter the first season, FX executives were worried about the show's low ratings and demanded that changes be made to the cast. \"So, John Landgraf, who's the president of FX, he called me in for a meeting and was like, 'Hey, no one's watching the show, but we love it,'\" McElhenney recalled. \"'We wanna keep it on, but we don't have any money for marketing, and we need to add somebody with some panache that we can hopefully parlay into some public relations story, just so we can get people talking.'\" FX began suggesting actors such as Danny DeVito that could boost the show's profile. \"It's not that we were reticent to the idea of adding Danny to the show,\" Howerton recalled, \"It's that we were reticent to add a name to the show. You know, because we kinda liked that we were no-names and it was this weird, small thing, you know.\" Initially, McElhenney refused, saying \"No, I just don't think we wanna do that, and they were like, 'Oh OK, well, you know... the show's over.'\" Realizing they needed to change the trajectory of the show to please the network, McElhenney, Howerton, and Day became open to adding a new cast member who was familiar to the public. However, McElhenney, Howerton, and Day were hesitant at first since they thought they would \"ruin the show\", particularly Day. DeVito later joined the cast in the first episode of the second season, playing the father of Dennis and Dee.The show is shot in both Philadelphia and Los Angeles. The exterior of Paddy's Pub is located at the Starkman Building on 544 Mateo Street in Los Angeles.\nOn April 1, 2016, the series was renewed for a thirteenth and fourteenth season, which matched The Adventures of Ozzie and Harriet with the most seasons for a live-action sitcom in American television history. On April 9, 2020, McElhenney announced that writing had begun for the fifteenth season. Filming for the season began in May 2021 and wrapped that October. In January 2023, McElhenney confirmed that filming for the sixteenth season had begun.\n\nEpisodes\nBroadcast and syndication\nThe first season ran for seven episodes with the finale airing September 15, 2005. According to McElhenney, word of mouth on the show was good enough for FX to renew it for a second season, which ran from June 29 to August 17, 2006. Reruns of edited first-season episodes began airing on FX's then-parent network, Fox, in June 2006, for a planned three-episode run—\"The Gang Finds a Dead Guy,\" \"Gun Fever\" (which was renamed \"Gun Control\") and \"Charlie Gets Molested\" were shown. The show was not aired on broadcast television again until 2011, when FX began offering it for syndication.The third season ran from September 13 to November 15, 2007. On March 5, 2008, FX renewed It's Always Sunny in Philadelphia for a fourth season. On July 15, 2008, it was reported that FX had ordered 39 additional episodes of the series, produced as seasons five through seven of the show. All five main cast members were secured for the entire scheduled run. The fifth season ran from September 17 to December 10, 2009. On May 31, 2010, Comedy Central began airing reruns. WGN America also began broadcasting the show as part of its fall 2011 schedule.The sixth season ran from September 16 to December 9, 2010, comprising 12 episodes, plus the Christmas special. The seventh season ran from September 15 to December 15, 2011, comprising 13 episodes. On August 6, 2011, FX announced it had picked up the show for an additional two seasons (the eighth and ninth) running through 2013. On March 28, 2013, FX renewed the show for a tenth season, and announced that it would move to FX's new sister network, FXX.In April 2017, Kaitlin Olson announced that It's Always Sunny in Philadelphia would go on an extended hiatus. In an interview with TV Guide, she said, \"We ended up pushing our next season a year because we were all busy with separate projects this year. So at the end of this coming shooting season of The Mick, I'll step right into Sunny after that.\"On October 2, 2017, the show premiered on Vice on TV.The series is available for streaming on Hulu except for the episodes \"America's Next Top Paddy's Billboard Model Contest\", \"Dee Reynolds: Shaping America's Youth\", \"The Gang Recycles Their Trash\", \"The Gang Makes Lethal Weapon 6\" and \"Dee Day\", due to scenes involving blackface. The same episodes are missing from Netflix in the UK, Disney+ in Australia, Canada, and Scandinavia, and Star+ in Latin America.\n\nMusic\nThe show uses recurring orchestral production music selections. \"We had a music supervisor called Ray Espinola and we said, 'Give us everything you have in a sort of Leave It to Beaver with a big band-swing kind of feel,' and the majority of the songs are from what he sent over,\" Charlie Day explained. \"When you set it against what these characters were doing—which often times can be perceived as quite despicable, or wrong—it really disarmed the audience. It just became our go-to library of songs.\"The theme song is called \"Temptation Sensation\" by German composer Heinz Kiessling. Kiessling's work (\"On Your Bike\" and \"Blue Blood\") can also be heard during various scene transitions throughout the show, along with other composers and pieces such as Werner Tautz (\"Off Broadway\"), Joe Brook (\"Moonbeam Kiss\"), and Karl Grell (\"Honey Bunch\"). Many of the tracks heard in the series are from Cafe Romantique, an album of easy listening production music collected by Extreme Music, the production music library unit of Sony/ATV Music Publishing. Independent record label Fervor Records has also contributed music to the show. Songs from The Jack Gray Orchestra's album Easy Listening Symph-O-Nette (\"Take A Letter Miss Jones,\" \"Golly Gee Whiz,\" and \"Not a Care in the World\") and the John Costello III release Giants of Jazz (\"Birdcage,\" \"Cotton Club\" and \"Quintessential\") are heard in several episodes.\nThe soundtrack, featuring most of the music heard on the show, was released in 2010.\n\nSoundtrack track listing\nReception and legacy\nCritical reviews and commentary\nIt's Always Sunny in Philadelphia has received critical acclaim for its humor and the performances of the cast. Emily Nussbaum of The New Yorker praised the show, calling it \"not merely the best sitcom on television but one of the most arresting and ambitious current TV series, period.\" Gillian Flynn of Entertainment Weekly reviewed the first season negatively, commenting, \"[I]t is smug enough to think it's breaking ground, but not smart enough to know it isn't.\" Brian Lowry of Variety gave the first season a positive review, saying it was \"invariably clever and occasionally a laugh-out-loud riot, all while lampooning taboo topics.\" However, later seasons of the show have received favorable ratings on review aggregator Metacritic, receiving 70/100, 78/100 and 85/100 for seasons 4, 5 and 6 respectively. The show has become a cult hit with viewers and is often compared in style to Seinfeld—particularly due to the self-centered nature of its main characters. The Philadelphia Inquirer reviewer Jonathan Storm wrote, \"It's like Seinfeld on crack,\" a quote that became widely used to describe the series, to the point that FX attached the tagline, \"It's Seinfeld on crack.\"In 2014, Entertainment Weekly listed the show at number 7 in the \"26 Best Cult TV Shows Ever,\" with the comment that \"it's a great underdog story ... If it sounds too dark for you, consider that there's an episode about making mittens for kittens, and it's adorable.\" In 2016, a New York Times study of the 50 TV shows with the most Facebook likes found that Sunny was \"more popular in college towns (and most popular in Philadelphia).\"In 2015, Rolling Stone rated the top 20 greatest and funniest It's Always Sunny in Philadelphia episodes, stating \"for 10 seasons, the series had mined comic gold from the execrable behavior of the owners of Paddy's Pub.\" They claimed the two-part season 4 episode, \"Mac and Charlie Die\" is the sitcom's greatest episode yet. In 2019, the BBC called the show \"the best US sitcom.\" They praised the show's unique outlook and ability to range from nihilistic humor to genuine heartfelt moments.According to Matt Fowler of IGN, the series \"broke new ground\" due to its sociopathic depiction of \"The Gang\". It was also ranked 63rd in IGN's list of the top 100 TV shows of all time.\n\nAwards\nOther media\nThe Nightman Cometh live\nIn September 2009, the cast took their show live. The \"Gang\" performed the musical The Nightman Cometh in New York City, Boston, Seattle, San Francisco, Los Angeles, and Philadelphia. Mary Elizabeth Ellis and Artemis Pebdani also appeared in the performance as The Waitress and Artemis. Actress Rhea Perlman (wife of Danny DeVito) assumed the role of Gladys.Creator Rob McElhenney said that Live Nation originally approached the cast about doing the show at 30 cities, but in the end the cast settled on six. Co-developer Glenn Howerton described the show as \"essentially an expanded version of the actual episode of \"The Nightman Cometh,\" which was the final episode for season four. There are some added moments, added scenes, added songs, and extended versions of songs that already existed.\" The performance featured two new songs, and the actors were given more opportunity to improvise thanks to the longer running time. An episode from season five was also previewed before the show.\nThe Los Angeles performance, filmed at The Troubadour, was included as a bonus feature on the season four DVD box set.\n\nRussian adaptation\nA Russian adaptation of It's Always Sunny in Philadelphia premiered in Russia on the television channel TNT on May 12, 2014. This version is titled В Москве всегда солнечно (V Moskve vsegda solnechno, It's Always Sunny in Moscow) and like the original, centers around four friends, who own a bar called \"Philadelphia\" in Moscow.\n\nBook\nA book based upon It's Always Sunny in Philadelphia was released on January 6, 2015, titled The Gang Writes a Self-Help Book: The 7 Secrets of Awakening the Highly Effective Four-Hour Giant, Today.\n\nPodcast\nOn November 9, 2021, Howerton, Day, and McElhenney started The Always Sunny Podcast, an episode-by-episode-recap of the show, with Megan Ganz as producer. Occasional guest stars include Kaitlin Olson, David Hornsby, Mary Elizabeth Ellis, Michael Naughton, Lin-Manuel Miranda, Cormac Bluestone and Danny DeVito.\n\nNotes\n\nAnswer the question based on the given passages. Only give me the answer and do not output any other words.",
+        "answer": "It's Always Sunny in Philadelphia",
+        "passages": [
+            "(1) John Franks (judge)        | (False)",
+            "(2) Henry Archer        | (False)",
+            "(3) Fenmore Baldwin        | (False)",
+            "(4) George Allman (natural historian)        | (False)",
+            "(5) J. J. Clancy (North County Dublin MP)        | (False)",
+            "(6) Charles Johnstone        | (False)",
+            "(7) Thomas O'Shaughnessy        | (False)",
+            "(8) Robbie Tucker        | (True)",
+            "(9) It's Always Sunny in Philadelphia        | (True)"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "High School Confidential, an eight part documentary followed twelve high school teenagers from a high school in Overland Park, Kansas that ranked what in the 2009 Newsweek ranking of the top 1,500 high schools in the United States?",
+        "answer": "#364",
+        "passages": [
+            "(1) Patrick Henry High School (Ashland, Virginia)        | (False)",
+            "(2) Clarkstown High School South        | (False)",
+            "(3) High School Confidential (TV series)        | (False)",
+            "(4) Bonita Vista High School        | (False)",
+            "(5) Eastview High School        | (False)",
+            "(6) Lake Brantley High School        | (False)",
+            "(7) Blue Valley Northwest High School        | (False)",
+            "(8) William Fremd High School        | (False)",
+            "(9) Atlantic Community High School        | (False)",
+            "(10) Blue Valley West High School        | (False)"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "The large subunit and small subunit that use two types of RNA are major components that make up what?",
+        "answer": "Ribosomes",
+        "passages": [
+            "(1) Short interspersed nuclear elements (SINEs)        | (False)",
+            "(2) Exonuclease VII        | (False)",
+            "(3) Ribosomal protein        | (True)",
+            "(4) Nuclear cap-binding protein complex        | (False)",
+            "(5) Ribozyme        | (False)",
+            "(6) Ribosome        | (True)"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Whiich genus has more species, Dracula or Pistacia?",
+        "answer": "Dracula",
+        "passages": [
+            "(1) Anacardiaceae        | (False)",
+            "(2) Commiphora gileadensis        | (False)",
+            "(3) Pistacia        | (False)",
+            "(4) Akbesia        | (False)",
+            "(5) Dracula wallisii        | (True)",
+            "(6) Terebinth        | (False)",
+            "(7) Pistacia aethiopica        | (False)",
+            "(8) Pistacia chinensis        | (False)",
+            "(9) Dracula (plant)        | (True)",
+            "(10) Pistacia khinjuk        | (False)"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Band-e-Amir Dragons is named after the lakes in which Afghan national park?",
+        "answer": "Band-e Amir National Park",
+        "passages": [
+            "(1) Band-e Amir National Park        | (True)",
+            "(2) Qasim Oryakhail        | (False)",
+            "(3) Samim Sultani        | (False)",
+            "(4) Fitratullah Khawari        | (False)",
+            "(5) Ikram Faizi        | (False)",
+            "(6) Arif Khan (cricketer)        | (False)",
+            "(7) Muslim Musa        | (False)",
+            "(8) Band-e-Amir Dragons        | (False)",
+            "(9) Shahidullah (cricketer)        | (False)",
+            "(10) Javeed Khan        | (False)"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "The 1958 Pro Bowl was played at the California stadium that is the home for which college?",
+        "answer": "University of Southern California",
+        "passages": [
+            "(1) 1958 Pro Bowl        | (False)",
+            "(2) Los Angeles Memorial Coliseum        | (True)",
+            "(3) 1995 Pro Bowl        | (False)",
+            "(4) Merlin Olsen        | (False)"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "Yau Ma Tei North is a district of a city with how many citizens?",
+        "answer": "7.2 million",
+        "passages": [
+            "(1) Canton Road        | (False)",
+            "(2) Jimaní        | (False)",
+            "(3) Ahiara        | (False)",
+            "(4) Yau Ma Tei North (constituency)        | (False)",
+            "(5) Zacharovce        | (False)",
+            "(6) Hong Kong        | (False)",
+            "(7) Billings Metropolitan Transit        | (False)"
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Spider9 was founded in 2011 by the head of which subsidiary of Wanxiang Group?",
+        "answer": "A123 Systems, LLC",
+        "passages": [
+            "(1) Spider9        | (False)",
+            "(2) A123 Systems        | (True)",
+            "(3) Tax consolidation        | (False)",
+            "(4) Glénat Editions        | (False)",
+            "(5) Wanxiang        | (True)",
+            "(6) Tongil Industries Company        | (False)",
+            "(7) Keep Your Head Down (song)        | (False)",
+            "(8) Karma Automotive        | (False)",
+            "(9) Copterline Oy        | (False)",
+            "(10) Fisker Automotive        | (False)"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "What is the population of the city at which the transmitter of WLLZ-LP was placed?",
+        "answer": "143,372",
+        "passages": [
+            "(1) WLLZ-LP        | (False)",
+            "(2) White House, Tennessee        | (False)",
+            "(3) Kokomo, Indiana metropolitan area        | (False)",
+            "(4) Salt Lake City metropolitan area        | (False)",
+            "(5) Mount Kaukau        | (False)",
+            "(6) Traverse City, Michigan        | (False)"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "Charles Haughey held what position when he dissolved the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989?",
+        "answer": "Taoiseach of Ireland",
+        "passages": [
+            "(1) Charles Haughey        | (False)",
+            "(2) Members of the 25th Dáil        | (False)",
+            "(3) Members of the 21st Dáil        | (False)",
+            "(4) Members of the 23rd Dáil        | (False)",
+            "(5) P. J. Mara        | (False)",
+            "(6) Members of the 28th Dáil        | (False)",
+            "(7) Arms Crisis        | (False)",
+            "(8) Members of the 27th Dáil        | (False)",
+            "(9) Members of the 20th Dáil        | (False)",
+            "(10) Members of the 26th Dáil        | (False)"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "What city, located in Lincoln County, Montana, United States, is Vegepet based in?",
+        "answer": "Troy, Montana",
+        "passages": [
+            "(1) Troy, Montana        | (True)",
+            "(2) Lincolnton–Lincoln County Regional Airport        | (False)",
+            "(3) Lincoln County, Arkansas        | (False)",
+            "(4) Siletz Reservation        | (False)",
+            "(5) Marv Skie–Lincoln County Airport        | (False)",
+            "(6) Kemmerer, Wyoming        | (False)",
+            "(7) Star Valley High School        | (False)",
+            "(8) Vegepet        | (False)",
+            "(9) Merrill, Wisconsin        | (False)"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "McLaren MP4/11 was driven by what Finnish former professional racing driver",
+        "answer": "Mika Häkkinen",
+        "passages": [
+            "(1) Mika Häkkinen        | (True)",
+            "(2) McLaren MP4/13        | (True)",
+            "(3) McLaren MP4/1        | (False)",
+            "(4) McLaren MP4/10        | (True)",
+            "(5) McLaren MP4/6        | (False)",
+            "(6) McLaren MP4/9        | (True)",
+            "(7) McLaren MP4/11        | (True)",
+            "(8) McLaren MP4/3        | (False)"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?",
+        "answer": "Constantine",
+        "passages": [
+            "(1) Kristof Konrad        | (False)",
+            "(2) Justin Timberlake videography        | (False)",
+            "(3) Rich Lee        | (True)",
+            "(4) What's So Different?        | (False)",
+            "(5) Constantine (film)        | (True)",
+            "(6) The Hunger Games: Mockingjay – Part 1        | (False)",
+            "(7) The Hunger Games (film series)        | (False)"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "Who choreographed one who is said to be the last muse for the choreographer and starred in the Nutcracker?",
+        "answer": "George Balanchine",
+        "passages": [
+            "(1) Lev Ivanov        | (False)",
+            "(2) The Nutcracker (Willam Christensen)        | (True)",
+            "(3) Adam Cooper (dancer)        | (True)",
+            "(4) The Nutcracker (1993 film)        | (True)",
+            "(5) Dennis Courtney        | (False)",
+            "(6) Stephen Nicholas (actor)        | (False)",
+            "(7) The Nutcracker (Balanchine)        | (True)",
+            "(8) Darci Kistler        | (True)",
+            "(9) Gwen Verdon        | (False)",
+            "(10) Mansi Aggarwal        | (False)"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Which utility holding company did Alfred A. Marcus work as a consultant?",
+        "answer": "Xcel Energy Inc.",
+        "passages": [
+            "(1) North American Light and Power Company        | (False)",
+            "(2) Southern Company        | (False)",
+            "(3) TECO Energy        | (False)",
+            "(4) Xcel Energy        | (True)",
+            "(5) Electric Bond and Share Company        | (False)",
+            "(6) Spire Inc        | (False)",
+            "(7) North American Company        | (False)",
+            "(8) Alfred A. Marcus        | (False)",
+            "(9) North American Co. v. SEC        | (False)"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Which film was released first, Summer Magic or Around the World in 80 Days?",
+        "answer": "Summer Magic",
+        "passages": [
+            "(1) Around the World in 80 Days (2004 film)        | (False)",
+            "(2) Around the World in 80 Days (1956 film)        | (False)",
+            "(3) Around the World (1956 song)        | (False)",
+            "(4) A Boy Scout Around the World        | (False)",
+            "(5) James Poe        | (False)",
+            "(6) Jules Verne Trophy        | (False)",
+            "(7) Michael Palin: Around the World in 80 Days        | (False)",
+            "(8) Summer Magic        | (True)"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "The physicist who is responsible for identifying the Rabi cycle won what award?",
+        "answer": "Nobel Prize",
+        "passages": [
+            "(1) Rabi cycle        | (False)",
+            "(2) Steven Kahn        | (False)",
+            "(3) Rabbi Jonathan        | (False)",
+            "(4) Albert Potter Wills        | (True)",
+            "(5) Isidor Isaac Rabi        | (True)"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "For what type of work is the production company for The Year Without a Santa Claus best known?",
+        "answer": "seasonal television specials, particularly its work in stop motion animation",
+        "passages": [
+            "(1) Santa's Workshop (Colorado)        | (False)",
+            "(2) Larry Wilson (screenwriter)        | (False)",
+            "(3) Rankin/Bass Productions        | (False)",
+            "(4) Santa Claus: The Movie        | (False)",
+            "(5) Jonathan Meath        | (False)",
+            "(6) Santa Claus Is a Black Man        | (False)",
+            "(7) Santa Claus in film        | (False)",
+            "(8) The Year Without a Santa Claus        | (False)",
+            "(9) A Miser Brothers' Christmas        | (False)"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Which three-time Olivier Award winning English actress starred in the 1981 BBC television serial, Sons and Lovers?",
+        "answer": "Dame Eileen June Atkins",
+        "passages": [
+            "(1) Juliet Aubrey        | (False)",
+            "(2) Paul Baker (actor)        | (False)",
+            "(3) Michelle Terry        | (False)",
+            "(4) Eileen Atkins        | (True)",
+            "(5) Sons and Lovers (1981 TV serial)        | (False)",
+            "(6) Jessica Swale        | (False)",
+            "(7) Alex Jennings        | (False)",
+            "(8) Sarah Solemani        | (False)",
+            "(9) Frances de la Tour        | (False)"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in which country?",
+        "answer": "Iran",
+        "passages": [
+            "(1) Dhussa        | (False)",
+            "(2) Old Bazaar, Gjakova        | (False)",
+            "(3) Grand Bazaar, Isfahan        | (True)",
+            "(4) Ramaipur        | (False)",
+            "(5) Begum Bazaar        | (False)",
+            "(6) Bazaar        | (True)",
+            "(7) Nimavar school        | (True)",
+            "(8) Dava Bazaar        | (False)"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s",
+        "answer": "Hakim Abdullah Jamal",
+        "passages": [
+            "(1) Tommie Smith        | (False)",
+            "(2) Black Power: The Politics of Liberation        | (False)",
+            "(3) African-American bookstores        | (False)",
+            "(4) Black Power movement        | (False)",
+            "(5) Hakim Jamal        | (True)",
+            "(6) Etheridge Knight        | (False)",
+            "(7) Rainbow Coalition (Fred Hampton)        | (False)",
+            "(8) Maulana Karenga        | (False)"
+        ]
+    },
+    {
+        "id": 45,
+        "question": "Which person is known for playing in punk bands, Keith Morris or Rome Ramirez?",
+        "answer": "Keith Morris",
+        "passages": [
+            "(1) Reggae rock        | (False)",
+            "(2) Street punk        | (False)",
+            "(3) Midnight Snack Break at the Poodle Factory        | (True)",
+            "(4) Brisbane punk rock        | (False)",
+            "(5) List of Circle Jerks band members        | (True)",
+            "(6) Yours Truly (Sublime with Rome album)        | (False)",
+            "(7) Keith Morris        | (True)",
+            "(8) Rome Ramirez        | (False)",
+            "(9) Circle Jerks        | (True)"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?",
+        "answer": "YIVO",
+        "passages": [
+            "(1) YIVO        | (True)",
+            "(2) Israel Bartal        | (False)",
+            "(3) Gershon Galil        | (False)",
+            "(4) Hikmet Tanyu        | (False)",
+            "(5) Center for Jewish History        | (True)",
+            "(6) Jeffrey S. Gurock        | (False)",
+            "(7) David N. Myers        | (False)",
+            "(8) Moses Rischin        | (False)",
+            "(9) Carole B. Balin        | (False)",
+            "(10) Arnold Richards        | (True)"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "When was the plaintiff in the 1892 Barbed Wire Patent Case born?",
+        "answer": "January 18, 1813",
+        "passages": [
+            "(1) Cheval de frise        | (False)",
+            "(2) Jacob Haish        | (False)",
+            "(3) Concertina wire        | (False)",
+            "(4) Wire obstacle        | (False)",
+            "(5) The Barbed Wire Patent        | (False)",
+            "(6) Joseph F. Glidden House        | (False)",
+            "(7) Devils Rope Barbed Wire Museum        | (False)",
+            "(8) Kansas Barbed Wire Museum        | (False)",
+            "(9) Joseph Glidden        | (True)",
+            "(10) Hanging on the Old Barbed Wire        | (False)"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "Which mountain is higher, Tongshanjiabu or Himalchuli?",
+        "answer": "Himalchuli has three main peaks: East (7893 m), West (7540 m) and North (7371 m)",
+        "passages": [
+            "(1) Bajura District        | (False)",
+            "(2) Gap Mountain        | (False)",
+            "(3) Skarstind        | (False)",
+            "(4) Maple Mountain (Ontario)        | (False)",
+            "(5) Tongshanjiabu        | (False)",
+            "(6) Himalchuli        | (True)",
+            "(7) Nanda Devi        | (False)",
+            "(8) Sumas Mountain (British Columbia)        | (False)",
+            "(9) Mountain bike orienteering        | (False)",
+            "(10) Avalanche Lake (New York)        | (False)"
+        ]
+    },
+    {
+        "id": 49,
+        "question": "When did the place in Canada where François Beaucourt (1740-1794) was mainly active acquired its present name?",
+        "answer": "1763",
+        "passages": [
+            "(1) Vaccine        | (False)",
+            "(2) Marco Marcola        | (False)",
+            "(3) Rue Lhomond        | (False)",
+            "(4) Vatos Locos        | (False)",
+            "(5) Giuseppe Appiani        | (False)",
+            "(6) Massimiliano Soldani Benzi        | (False)",
+            "(7) Francesco Corneliani        | (False)",
+            "(8) François Beaucourt        | (False)",
+            "(9) Norman Newell        | (False)",
+            "(10) Province of Quebec (1763–1791)        | (True)"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Who gave the mother of Alberic II of Spoleto the title \"patricia\" of Rome?",
+        "answer": "Pope John X",
+        "passages": [
+            "(1) Alberic III of Dammartin        | (False)",
+            "(2) Gregory I, Count of Tusculum        | (True)",
+            "(3) Alberic II of Spoleto        | (True)",
+            "(4) Marozia        | (True)",
+            "(5) Renaud I, Count of Dammartin        | (False)",
+            "(6) Alberic II, Count of Dammartin        | (False)",
+            "(7) Alberik II        | (False)",
+            "(8) Pope Agapetus II        | (False)",
+            "(9) Pope Leo VII        | (True)",
+            "(10) Simon, Count of Ponthieu        | (False)"
+        ]
+    },
+    {
+        "id": 51,
+        "question": "What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?",
+        "answer": "Manchester United",
+        "passages": [
+            "(1) Gorse Hill        | (True)",
+            "(2) Trafford Bar tram stop        | (False)",
+            "(3) Trojans Rugby Football Club        | (False)",
+            "(4) Aquinas Old Collegians Football Club        | (False)",
+            "(5) Old Trafford, Greater Manchester        | (True)",
+            "(6) Maxine's Tap Room        | (False)",
+            "(7) Manchester United F.C. in European football        | (True)",
+            "(8) Ragbi Klub Mornar Bar        | (False)"
+        ]
+    },
+    {
+        "id": 52,
+        "question": "Are Stanley Elkin and Anne Tyler from the same country?",
+        "answer": "yes",
+        "passages": [
+            "(1) Noah's Compass        | (False)",
+            "(2) Stanley Elkin        | (False)",
+            "(3) Earthly Possessions (novel)        | (False)",
+            "(4) Searching for Caleb        | (False)",
+            "(5) Anne Tyler        | (True)",
+            "(6) Dinner at the Homesick Restaurant        | (False)",
+            "(7) Steven Zwicker        | (False)",
+            "(8) Gwyn Avenue–Bridge Street Historic District        | (False)",
+            "(9) Mrs. Ted Bliss        | (False)",
+            "(10) George Mills (novel)        | (False)"
+        ]
+    },
+    {
+        "id": 53,
+        "question": "Sand Lake Baptist Church is located in a hamlet with a population of what at the 2010 census?",
+        "answer": "1,693",
+        "passages": [
+            "(1) Averill Park, New York        | (False)",
+            "(2) Sand Lake, Michigan        | (False)",
+            "(3) West Sand Lake, New York        | (False)",
+            "(4) Stone Lake (CDP), Wisconsin        | (False)",
+            "(5) Carlton, Alabama        | (False)",
+            "(6) Sand Lake Township, Itasca County, Minnesota        | (False)",
+            "(7) Sand Lake Baptist Church        | (False)",
+            "(8) Nathalie, Virginia        | (False)",
+            "(9) Wynantskill, New York        | (False)",
+            "(10) Sand Lake, New York        | (False)"
+        ]
+    },
+    {
+        "id": 54,
+        "question": "What championship did the person who substituted for Simon Pagenaud secure a contract to drive in 2017?",
+        "answer": "Australian Supercars Championship",
+        "passages": [
+            "(1) 2016 Honda Indy Grand Prix of Alabama        | (False)",
+            "(2) 2016 IndyCar Series        | (False)",
+            "(3) Simon Pagenaud        | (False)",
+            "(4) 2017 Honda Indy Toronto        | (False)",
+            "(5) 2011 Indy Grand Prix of Sonoma        | (False)",
+            "(6) 2009 Monterey Sports Car Championships        | (False)",
+            "(7) Simona de Silvestro        | (True)",
+            "(8) 2003 Formula Renault 2000 Masters        | (False)",
+            "(9) 2006 Atlantic Championship        | (False)",
+            "(10) 2014 Grand Prix of Houston        | (False)"
+        ]
+    },
+    {
+        "id": 55,
+        "question": "Are Yoo-hoo and Faygo both carbonated drinks?",
+        "answer": "no",
+        "passages": [
+            "(1) Schorle        | (True)",
+            "(2) Grape soda        | (True)",
+            "(3) Tampico Beverages        | (True)",
+            "(4) Ceylon Cold Stores        | (True)",
+            "(5) Faygo        | (True)",
+            "(6) Yoo-hoo        | (True)",
+            "(7) Banta        | (True)",
+            "(8) Codd-neck bottle        | (True)",
+            "(9) Carbonated drink        | (True)"
+        ]
+    },
+    {
+        "id": 56,
+        "question": "After coaching the red raiders to several winning seasons, where does Mike Leach currently coach at?",
+        "answer": "Washington State",
+        "passages": [
+            "(1) 2005 Texas Tech Red Raiders football team        | (False)",
+            "(2) 2009 Texas Tech Red Raiders football team        | (False)",
+            "(3) Ruffin McNeill        | (False)",
+            "(4) 2002 Texas Tech Red Raiders football team        | (False)",
+            "(5) 2004 Texas Tech Red Raiders football team        | (False)",
+            "(6) 2012 Washington State Cougars football team        | (True)",
+            "(7) 2000 Texas Tech Red Raiders football team        | (False)",
+            "(8) 2001 Texas Tech Red Raiders football team        | (False)",
+            "(9) Mike Leach (American football coach)        | (True)",
+            "(10) 2003 Texas Tech Red Raiders football team        | (False)"
+        ]
+    },
+    {
+        "id": 57,
+        "question": "The Huskies football team were invited to the Alamo Bowl where they were defeated by a team coached by Art Briles and who played their home games at what statium?",
+        "answer": "Floyd Casey Stadium",
+        "passages": [
+            "(1) 2011 Baylor Bears football team        | (True)",
+            "(2) 2010 Connecticut Huskies football team        | (False)",
+            "(3) 2008 Houston Cougars football team        | (False)",
+            "(4) 2011 Washington Huskies football team        | (False)",
+            "(5) 2009 Texas Tech Red Raiders football team        | (False)",
+            "(6) 2010 Baylor Bears football team        | (True)",
+            "(7) 2011 Northern Illinois Huskies football team        | (False)",
+            "(8) 2014 Northern Illinois Huskies football team        | (False)",
+            "(9) 2012 Washington Huskies football team        | (False)",
+            "(10) 2010 Washington Huskies football team        | (False)"
+        ]
+    },
+    {
+        "id": 58,
+        "question": "Luther: The Calling is based on the BBC crime drama comprising six episodes that were run in which year?",
+        "answer": "2010",
+        "passages": [
+            "(1) Kiss of Death (TV drama)        | (True)",
+            "(2) Sam &amp; Max Save the World        | (True)",
+            "(3) Luther: The Calling        | (False)",
+            "(4) Warren Brown (actor)        | (True)",
+            "(5) Pramface        | (False)",
+            "(6) Luther (TV series)        | (True)",
+            "(7) Fear the Walking Dead (season 1)        | (False)",
+            "(8) NCS: Manhunt        | (False)",
+            "(9) The Frankenstein Chronicles        | (False)",
+            "(10) List of Happy Valley episodes        | (False)"
+        ]
+    },
+    {
+        "id": 59,
+        "question": "How are elephants connected to Gajabrishta?",
+        "answer": "Sanskrit",
+        "passages": [
+            "(1) Elephant        | (True)",
+            "(2) Gajabrishta        | (True)"
+        ]
+    },
+    {
+        "id": 60,
+        "question": "What is the nationality of the author of Fifty Shades Freed?",
+        "answer": "English",
+        "passages": [
+            "(1) Fifty Shades Freed (film)        | (False)",
+            "(2) Fifty Shades of Grey        | (True)",
+            "(3) Robinne Lee        | (False)",
+            "(4) E. L. James        | (False)",
+            "(5) Fifty Shades of Oy Vey: A Parody        | (False)",
+            "(6) Fifty Shades Darker        | (False)",
+            "(7) Fifty Shades Freed        | (False)",
+            "(8) Fifty Shades (film series)        | (True)",
+            "(9) Fifty Shades (novel series)        | (False)"
+        ]
+    },
+    {
+        "id": 61,
+        "question": "Were the Tundra Mine and Negus Mine located in the same country?",
+        "answer": "yes",
+        "passages": [
+            "(1) Victor Diamond Mine        | (False)",
+            "(2) Dry Fork Mine        | (False)",
+            "(3) Tundra Mine        | (False)",
+            "(4) Franklin-Creighton Mine        | (False)",
+            "(5) Tundra Mine/Salamita Mine Aerodrome        | (False)",
+            "(6) Raspadskaya coal mine        | (False)",
+            "(7) Salmita Mine        | (False)",
+            "(8) Colomac Mine        | (False)",
+            "(9) Murowa diamond mine        | (False)",
+            "(10) Negus Mine        | (False)"
+        ]
+    },
+    {
+        "id": 62,
+        "question": "When did the animated series Kent Scott wrote end after beginning in September of 2002 on \"Nick on CBS\"?",
+        "answer": "November",
+        "passages": [
+            "(1) Project G.e.e.K.e.R.        | (False)",
+            "(2) David W. Zucker        | (False)",
+            "(3) Dora the Explorer        | (False)",
+            "(4) Duane Capizzi        | (False)",
+            "(5) Hawaii Five-0 (2010 TV series)        | (True)",
+            "(6) Scott McCord        | (False)",
+            "(7) Kenn Scott        | (False)",
+            "(8) Henry Gilroy        | (True)",
+            "(9) Pelswick        | (True)"
+        ]
+    },
+    {
+        "id": 63,
+        "question": "What American actress stars in Tainted?",
+        "answer": "Shari Shattuck",
+        "passages": [
+            "(1) Pamela Adlon        | (False)",
+            "(2) Drea de Matteo        | (False)",
+            "(3) Shari Shattuck        | (True)",
+            "(4) Tainted        | (False)",
+            "(5) Robin Wright        | (False)",
+            "(6) Faye Dunaway filmography        | (False)",
+            "(7) Rozie Curtis        | (False)",
+            "(8) Laura Dern        | (False)",
+            "(9) All the Way to the Ocean        | (False)",
+            "(10) Jennifer Grey        | (False)"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "Jolyon James performed the role of Moonshadow in a musical by a composer of what nationality?",
+        "answer": "British",
+        "passages": [
+            "(1) August Hirt        | (False)",
+            "(2) BAFTA Rising Star Award        | (True)",
+            "(3) Jolyon James        | (False)",
+            "(4) Cat Stevens        | (True)",
+            "(5) London 03.06.17        | (False)"
+        ]
+    },
+    {
+        "id": 65,
+        "question": "What Nobel Laureate teaches at  Chapman University?",
+        "answer": "Vernon Smith",
+        "passages": [
+            "(1) François Englert        | (False)",
+            "(2) Paul D. Boyer        | (False)",
+            "(3) Vernon L. Smith        | (True)",
+            "(4) Department of Chemistry, University of Cambridge        | (False)",
+            "(5) Chapman University        | (False)",
+            "(6) Tom Campbell (California politician)        | (False)",
+            "(7) Journal of Behavioral Finance        | (True)",
+            "(8) Chapman University School of Law        | (False)",
+            "(9) Center for American War Letters        | (False)"
+        ]
+    },
+    {
+        "id": 66,
+        "question": "Which California band, whose debut album Adrenaline appeared in 1995, has been referred to as \"the Radiohead of metal\"?",
+        "answer": "Deftones",
+        "passages": [
+            "(1) Adrenaline (album)        | (True)",
+            "(2) Given to the Rising        | (False)",
+            "(3) Just Keep Runnin'        | (False)",
+            "(4) Against All Will        | (False)",
+            "(5) Ryan Ferguson (musician)        | (False)",
+            "(6) Deftones        | (True)",
+            "(7) F-Minus (band)        | (False)",
+            "(8) The Red &amp; the Black        | (False)",
+            "(9) Cream City        | (False)",
+            "(10) Noah Georgeson        | (False)"
+        ]
+    },
+    {
+        "id": 67,
+        "question": "What was the population in 2010 of the town where The Stelljes House is located ?",
+        "answer": "810",
+        "passages": [
+            "(1) Cropper, Kentucky        | (False)",
+            "(2) Stelljes House        | (False)",
+            "(3) Haverstraw, New York        | (False)",
+            "(4) Kadıköy, Yalova        | (False)",
+            "(5) Timnath, Colorado        | (False)",
+            "(6) Clarkstown, New York        | (False)",
+            "(7) Carrizozo, New Mexico        | (False)",
+            "(8) Ancón, Panama        | (False)",
+            "(9) Carpenter, Colorado        | (False)",
+            "(10) Goshen, New Hampshire        | (False)"
+        ]
+    },
+    {
+        "id": 68,
+        "question": "Which country is home to Alsa Mall and Spencer Plaza?",
+        "answer": "India",
+        "passages": [
+            "(1) Harbor Square        | (False)",
+            "(2) Smith Road, Chennai        | (True)",
+            "(3) Ashley Landing        | (False)",
+            "(4) Desert Fashion Plaza        | (True)",
+            "(5) L. L. Berger        | (False)",
+            "(6) The Plaza (mall)        | (False)",
+            "(7) The Crossings at Northwest        | (False)",
+            "(8) Farmers Plaza        | (False)",
+            "(9) Alsa Mall        | (True)",
+            "(10) Spencer Plaza        | (True)"
+        ]
+    },
+    {
+        "id": 69,
+        "question": "Are Mick Jagger and Brett Scallions both musicians?",
+        "answer": "yes",
+        "passages": [
+            "(1) Brett Scallions        | (False)",
+            "(2) Memo from Turner        | (False)",
+            "(3) Jagger/Richards        | (True)",
+            "(4) Mick Jagger        | (True)",
+            "(5) Disease (song)        | (False)"
+        ]
+    },
+    {
+        "id": 70,
+        "question": "When was Erik Watts' father born?",
+        "answer": "May 5, 1939",
+        "passages": [
+            "(1) Shystie        | (False)",
+            "(2) Nathaniel Gist        | (False)",
+            "(3) Erik Watts        | (False)",
+            "(4) TCW Tag Team Championship        | (False)",
+            "(5) Ockelbo-Lundgren        | (False)",
+            "(6) Bill Watts        | (True)",
+            "(7) Vicki Fowler        | (False)",
+            "(8) James Prinsep Beadle        | (False)",
+            "(9) The Watts Prophets        | (False)",
+            "(10) Angela Lonsdale        | (False)"
+        ]
+    },
+    {
+        "id": 71,
+        "question": "Morgan Paull played Dave Holden in a 1982 film loosely adapted from a novel by what author?",
+        "answer": "Philip K. Dick",
+        "passages": [
+            "(1) The Lives of a Bengal Lancer (film)        | (False)",
+            "(2) The White Haired Witch of Lunar Kingdom        | (False)",
+            "(3) Morgan Paull        | (False)",
+            "(4) Dirty O'Neil        | (False)",
+            "(5) The Man in the Iron Mask (1977 film)        | (False)",
+            "(6) Harrison Bergeron (film)        | (False)",
+            "(7) Blade Runner        | (True)"
+        ]
+    },
+    {
+        "id": 72,
+        "question": "What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?",
+        "answer": "821",
+        "passages": [
+            "(1) A Wise Old Owl        | (False)",
+            "(2) Aiken Drum        | (False)",
+            "(3) Row, Row, Row Your Boat        | (False)",
+            "(4) Pretty Little Dutch Girl        | (False)",
+            "(5) Did You Ever See a Lassie?        | (False)",
+            "(6) Billy Boy        | (False)",
+            "(7) Three Little Kittens        | (False)",
+            "(8) What Are Little Boys Made Of?        | (True)",
+            "(9) Tweedledum and Tweedledee        | (False)",
+            "(10) What Are Little Girls Made Of?        | (False)"
+        ]
+    },
+    {
+        "id": 73,
+        "question": "Which is in the pop genre, Capital Cities or Tweaker?",
+        "answer": "Capital Cities",
+        "passages": [
+            "(1) Capital Cities (band)        | (True)",
+            "(2) Capital Cities/ABC Inc.        | (True)",
+            "(3) Thomas Murphy (broadcasting)        | (True)",
+            "(4) Wandu        | (True)",
+            "(5) Premio Lo Nuestro 2003        | (False)",
+            "(6) Safe and Sound (Capital Cities song)        | (True)",
+            "(7) Institutional Investor (magazine)        | (True)",
+            "(8) History of Northwest Territories capital cities        | (False)",
+            "(9) Tweaker (band)        | (False)"
+        ]
+    },
+    {
+        "id": 74,
+        "question": "Who was born first,  Morgan Llywelyn or Robert Jordan?",
+        "answer": "Morgan Llywelyn",
+        "passages": [
+            "(1) Red Branch (novel)        | (True)",
+            "(2) Robert Jordan        | (False)",
+            "(3) Lion of Ireland        | (True)",
+            "(4) List of locations in The Wheel of Time        | (False)",
+            "(5) The World of Robert Jordan's The Wheel of Time        | (False)",
+            "(6) Morgan Llywelyn        | (True)",
+            "(7) Grania: She-King of the Irish Seas        | (True)",
+            "(8) Pride of Lions (novel)        | (True)",
+            "(9) Bard: The Odyssey of the Irish        | (True)",
+            "(10) Finn Mac Cool (novel)        | (True)"
+        ]
+    },
+    {
+        "id": 75,
+        "question": "The winner of the the London Riders' Championship in 1953 scored how many points in the 1952 Individual Speedway World Championship?",
+        "answer": "14",
+        "passages": [
+            "(1) Jack Young (speedway rider)        | (True)",
+            "(2) British Speedway Championship        | (False)",
+            "(3) Kurt Hansen (speedway rider)        | (False)",
+            "(4) 1952 Individual Speedway World Championship        | (True)",
+            "(5) 1989 Individual Speedway World Championship        | (False)",
+            "(6) Speedway World Championship Competitions        | (False)",
+            "(7) 2010 Speedway Grand Prix Qualification        | (True)",
+            "(8) Brian Andersen        | (False)",
+            "(9) 1936 Individual Speedway World Championship        | (False)",
+            "(10) 2010 Individual Speedway Polish Championship        | (False)"
+        ]
+    },
+    {
+        "id": 76,
+        "question": "A wide receiver for the Toronto Argonauts played college football for a team that represents the University of Oklahoma, which belongs to what conference?",
+        "answer": "Big 12 Conference",
+        "passages": [
+            "(1) Chad Plummer        | (False)",
+            "(2) Mike Eben        | (False)",
+            "(3) Arland Bruce III        | (False)",
+            "(4) Oklahoma Sooners football        | (True)",
+            "(5) Djems Kouamé        | (False)",
+            "(6) Justin Brown (wide receiver)        | (False)",
+            "(7) Mike Bradwell        | (False)",
+            "(8) Rashaun Woods        | (False)",
+            "(9) Emanuel Tolbert        | (False)"
+        ]
+    },
+    {
+        "id": 77,
+        "question": "In which six Western European territories have Celtic languages or cultural traits survived?",
+        "answer": "Brittany, Cornwall, Ireland, Isle of Man, Scotland and Wales.",
+        "passages": [
+            "(1) Celtic studies        | (False)",
+            "(2) Zeitschrift für celtische Philologie        | (False)",
+            "(3) Pan Celtic Festival        | (False)",
+            "(4) Insular Celtic languages        | (False)",
+            "(5) Celtic nations        | (False)",
+            "(6) Journal of Celtic Linguistics        | (False)",
+            "(7) Alexei Kondratiev        | (False)",
+            "(8) Continental Celtic languages        | (False)"
+        ]
+    },
+    {
+        "id": 78,
+        "question": "SR connector is based on the connector that is often used for what type of cable?",
+        "answer": "coaxial",
+        "passages": [
+            "(1) SHV connector        | (True)",
+            "(2) U-229        | (False)",
+            "(3) Multicable        | (False)",
+            "(4) Camlock (electrical)        | (False)",
+            "(5) Cable gland        | (False)",
+            "(6) SR connector        | (True)",
+            "(7) Very-high-density cable interconnect        | (False)",
+            "(8) C connector        | (True)",
+            "(9) GR connector        | (True)",
+            "(10) BNC connector        | (True)"
+        ]
+    },
+    {
+        "id": 79,
+        "question": "Which is farther north, Steel Venom or Wicked Twister?",
+        "answer": "Wicked Twister",
+        "passages": [
+            "(1) Cass Corridor        | (False)",
+            "(2) Possessed (roller coaster)        | (True)",
+            "(3) Georgia Depression        | (False)",
+            "(4) Steel Venom (Valleyfair)        | (False)",
+            "(5) Alouette Lake        | (False)",
+            "(6) Excalibur (Valleyfair)        | (False)",
+            "(7) Bobo people        | (False)",
+            "(8) Eureka, Nunavut        | (False)",
+            "(9) Battle of White Plains        | (False)",
+            "(10) Wicked Twister        | (True)"
+        ]
+    },
+    {
+        "id": 80,
+        "question": "Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?",
+        "answer": "Levni Yilmaz",
+        "passages": [
+            "(1) Pamela B. Green        | (False)",
+            "(2) Anani ben Sason        | (False)",
+            "(3) Lev Yilmaz        | (True)",
+            "(4) AES+F        | (False)",
+            "(5) Aryanto Yuniawan        | (False)",
+            "(6) Seasoned Veteran        | (False)",
+            "(7) Lev Kuleshov        | (False)",
+            "(8) Pamela B. Davis        | (False)",
+            "(9) Pamela Gilbert        | (False)",
+            "(10) Eliezer ben Jacob I        | (False)"
+        ]
+    },
+    {
+        "id": 81,
+        "question": "Who was the gunman of the hostage crisis which Chris Reason was awarded the Graham Perkin Australian Journalist of the Year Award for his coverage of?",
+        "answer": "Man Haron",
+        "passages": [
+            "(1) Mikkeli hostage crisis        | (False)",
+            "(2) Graham Perkin        | (False)",
+            "(3) 1991 Sacramento hostage crisis        | (False)",
+            "(4) Chris Reason        | (False)",
+            "(5) Les Carlyon        | (False)",
+            "(6) 2014 Sydney hostage crisis        | (True)"
+        ]
+    },
+    {
+        "id": 82,
+        "question": "1920 Politics was a Republican political strategy to reassert the authority of the white race in which US state?",
+        "answer": "Hawaii",
+        "passages": [
+            "(1) Fifty-state strategy        | (True)",
+            "(2) Territory of Hawaii        | (True)",
+            "(3) Angela McGlowan        | (False)",
+            "(4) 1920 Politics (Hawaii)        | (True)",
+            "(5) Uneven and combined development        | (False)",
+            "(6) Cloward–Piven strategy        | (False)"
+        ]
+    },
+    {
+        "id": 83,
+        "question": "In what event was Harold Davis a former record holder, but now is held by Usain Bolt?",
+        "answer": "100 metres",
+        "passages": [
+            "(1) Jerry Schumacher        | (False)",
+            "(2) Ato Boldon        | (True)",
+            "(3) Richard Thompson (sprinter)        | (True)",
+            "(4) Harold Davis (athlete)        | (False)",
+            "(5) I Am Bolt        | (False)",
+            "(6) Glen Mills        | (False)",
+            "(7) Kozo Haraguchi        | (False)",
+            "(8) Mosito Lehata        | (True)",
+            "(9) Warren Weir        | (True)",
+            "(10) Men's 100 metres world record progression        | (True)"
+        ]
+    },
+    {
+        "id": 84,
+        "question": "Why did the CEO of the football team based in Denver, Colorado step down in 2014?",
+        "answer": "due to the onset and progression of Alzheimer's disease",
+        "passages": [
+            "(1) Joy S. Burns        | (False)",
+            "(2) Denver Broncos        | (False)",
+            "(3) List of Denver Broncos first-round draft picks        | (False)",
+            "(4) Campbell Field (Colorado)        | (False)",
+            "(5) Rocky Mountain Thunder        | (False)",
+            "(6) Pat Bowlen        | (True)"
+        ]
+    },
+    {
+        "id": 85,
+        "question": "Are Pothos and Tibouchina Aubl both flowering genus of plants?",
+        "answer": "yes",
+        "passages": [
+            "(1) Austrobaileyales        | (False)",
+            "(2) Tibouchina        | (True)",
+            "(3) Cyrtandra (plant)        | (False)",
+            "(4) Pothos (genus)        | (False)",
+            "(5) Chiranthodendron        | (False)",
+            "(6) Zeltnera        | (False)",
+            "(7) Psychotria        | (False)",
+            "(8) Tibouchina heteromalla        | (False)",
+            "(9) Aureusvirus        | (False)",
+            "(10) Pothoideae        | (False)"
+        ]
+    },
+    {
+        "id": 86,
+        "question": "The Pluralist school is said to have included what creator of the theory of atomism?",
+        "answer": "Leucippus",
+        "passages": [
+            "(1) Buddhist atomism        | (False)",
+            "(2) Leucippus        | (True)",
+            "(3) Atomism (social)        | (False)",
+            "(4) Pluralist school        | (True)",
+            "(5) Pluralist theories of truth        | (False)",
+            "(6) Ann Pettifor        | (False)"
+        ]
+    },
+    {
+        "id": 87,
+        "question": "Which City in the Miami metropolitan area is home to the Primetime Race Group?",
+        "answer": "Hollywood, Florida",
+        "passages": [
+            "(1) Miami Gardens, Florida        | (False)",
+            "(2) Sport in Miami        | (False)",
+            "(3) Primetime Race Group        | (True)",
+            "(4) Hollywood, Florida        | (True)",
+            "(5) Miami metropolitan area        | (False)",
+            "(6) Miami metropolitan area (disambiguation)        | (False)",
+            "(7) Tidal flooding        | (False)"
+        ]
+    },
+    {
+        "id": 88,
+        "question": "What type of structure does 277 Park Avenue and 126 Madison Avenue have in common?",
+        "answer": "building",
+        "passages": [
+            "(1) Squadron A Armory        | (True)",
+            "(2) Metropolitan Life North Building        | (True)",
+            "(3) Church of St. Ignatius Loyola (New York City)        | (False)",
+            "(4) 126 Madison Avenue        | (True)",
+            "(5) Calvary Church (Manhattan)        | (True)",
+            "(6) 277 Park Avenue        | (True)",
+            "(7) 55 Water Street        | (True)"
+        ]
+    },
+    {
+        "id": 89,
+        "question": "Operation light house was an experiment by Wernher von Braun and another man born in what year?",
+        "answer": "1895",
+        "passages": [
+            "(1) Man and the Moon        | (False)",
+            "(2) Von Braun (crater)        | (False)",
+            "(3) Walter Dornberger        | (True)",
+            "(4) Von Braun Center for Science &amp; Innovation        | (False)",
+            "(5) Man Will Conquer Space Soon!        | (False)",
+            "(6) Flip Animation Festival        | (False)",
+            "(7) Mount Von Braun        | (False)",
+            "(8) Operation Lighthouse (1937)        | (False)",
+            "(9) Magnus von Braun        | (False)",
+            "(10) Von Braun Ferry Rocket        | (False)"
+        ]
+    },
+    {
+        "id": 90,
+        "question": "Which conference is the team for which Justin Bannan played college football currently a member of?",
+        "answer": "Pac-12 Conference",
+        "passages": [
+            "(1) Justin Harper (American football)        | (False)",
+            "(2) Colorado Buffaloes football        | (True)",
+            "(3) Justin Bannan        | (False)",
+            "(4) Joe Ruetz        | (False)",
+            "(5) Josh Wilcox        | (False)",
+            "(6) Roy Roundtree        | (False)",
+            "(7) Carroll Fighting Saints football        | (False)",
+            "(8) Hogan Wharton        | (False)",
+            "(9) Charlie O'Rourke        | (False)",
+            "(10) Abe Mickal        | (False)"
+        ]
+    },
+    {
+        "id": 91,
+        "question": "What time did the show, in which Gordon Burns was the host, usually air on Monday?",
+        "answer": "7pm",
+        "passages": [
+            "(1) CNN World News        | (False)",
+            "(2) Foil bearing        | (False)",
+            "(3) Gordon Burns (footballer)        | (False)",
+            "(4) The Krypton Factor        | (False)",
+            "(5) A Word in Your Ear        | (False)",
+            "(6) Krypto the Superdog        | (False)",
+            "(7) Gordon Burns        | (False)"
+        ]
+    },
+    {
+        "id": 92,
+        "question": "Are Werther and The Odyssey both operas?",
+        "answer": "no",
+        "passages": [
+            "(1) Encounter with Werther        | (True)",
+            "(2) Piano Quartet No. 3 (Brahms)        | (True)",
+            "(3) William Render        | (False)",
+            "(4) Werther, North Rhine-Westphalia        | (True)",
+            "(5) Odyssey        | (True)",
+            "(6) Albert Odyssey (Super Famicom game)        | (True)",
+            "(7) Sorrows of Werther        | (True)",
+            "(8) Werther (film)        | (True)",
+            "(9) Werther        | (True)",
+            "(10) The Novel of Werther        | (True)"
+        ]
+    },
+    {
+        "id": 93,
+        "question": "What occupation is shared by both Marge Piercy and Richard Aldington?",
+        "answer": "poet",
+        "passages": [
+            "(1) Woman on the Edge of Time        | (False)",
+            "(2) He, She and It        | (False)",
+            "(3) December (magazine)        | (True)",
+            "(4) Vida (novel)        | (False)",
+            "(5) Marge Piercy        | (True)",
+            "(6) Richard Aldington        | (True)",
+            "(7) Ivan Coyote        | (True)",
+            "(8) Going Down Fast        | (False)",
+            "(9) Barbie Doll (poem)        | (False)"
+        ]
+    },
+    {
+        "id": 94,
+        "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
+        "answer": "no",
+        "passages": [
+            "(1) Sabal Trail Transmission Pipeline        | (True)",
+            "(2) Duke Energy        | (True)",
+            "(3) Duke Energy Florida        | (True)",
+            "(4) Sean Healey        | (True)",
+            "(5) Darrell Crate        | (True)",
+            "(6) Affiliated Managers Group        | (True)",
+            "(7) Progress Energy Inc        | (True)",
+            "(8) Gulfstream Natural Gas Pipeline        | (True)",
+            "(9) Crystal River Energy Complex        | (True)",
+            "(10) Crescent Communities        | (True)"
+        ]
+    },
+    {
+        "id": 95,
+        "question": "How many marchers were in the protest that Pelham D. Glassford ended?",
+        "answer": "43,000 marchers",
+        "passages": [
+            "(1) Bonus Army        | (False)",
+            "(2) List of Occupy movement protest locations        | (False)",
+            "(3) Manjolai Labourers massacre        | (False)",
+            "(4) Pelham Road        | (False)",
+            "(5) Westchester Avenue        | (False)",
+            "(6) Hong Kong 1 July marches        | (False)",
+            "(7) Nichidatsu Fujii's movement        | (False)",
+            "(8) Pelham, New York        | (False)",
+            "(9) Pelham D. Glassford        | (False)"
+        ]
+    },
+    {
+        "id": 96,
+        "question": "Where is the airline company that operated United Express Flight 3411 on April 9, 2017 on behalf of United Express headquartered?",
+        "answer": "Indianapolis, Indiana",
+        "passages": [
+            "(1) Bishop International Airport        | (False)",
+            "(2) United Express Flight 3411 incident        | (False)",
+            "(3) Air Wisconsin        | (False)",
+            "(4) United Express Flight 2415        | (False)",
+            "(5) Republic Airline        | (True)",
+            "(6) United Express Flight 5925        | (False)"
+        ]
+    },
+    {
+        "id": 97,
+        "question": "What was the first year a scientific journal published by an organization located in the Bronx was published?",
+        "answer": "1909",
+        "passages": [
+            "(1) PLOS ONE        | (False)",
+            "(2) Behavior Genetics (journal)        | (False)",
+            "(3) Bosque (journal)        | (False)",
+            "(4) Geophysical Journal International        | (False)",
+            "(5) Scientific journal        | (False)",
+            "(6) Mycologia        | (True)",
+            "(7) The Raffles Bulletin of Zoology        | (False)",
+            "(8) New York Botanical Garden        | (False)",
+            "(9) ACS Macro Letters        | (False)"
+        ]
+    },
+    {
+        "id": 98,
+        "question": "The owner of radio station KWPW has the same name as an American character actor. What is it?",
+        "answer": "Bill McCutcheon",
+        "passages": [
+            "(1) WSYY-FM        | (False)",
+            "(2) KAND        | (False)",
+            "(3) WSTU        | (False)",
+            "(4) Radioshow        | (False)",
+            "(5) Bill McCutcheon        | (True)",
+            "(6) KYTC (FM)        | (False)",
+            "(7) Voix du Sahel        | (False)",
+            "(8) Al Lewis (actor)        | (False)",
+            "(9) Q101 Chicago        | (False)",
+            "(10) KWPW        | (True)"
+        ]
+    },
+    {
+        "id": 99,
+        "question": "Brigadier Stanley James Ledger Hill was attached to the command post of which senior British Army officer born on July 10, 1886?",
+        "answer": "Lord Gort",
+        "passages": [
+            "(1) James Hill (British Army officer)        | (True)",
+            "(2) John Vereker, 6th Viscount Gort        | (False)",
+            "(3) Richard O'Connor        | (False)"
+        ]
+    },
+    {
+        "id": 100,
+        "question": "Bill Bryson grew up in a city that is the seat of which county ?",
+        "answer": "Polk County",
+        "passages": [
+            "(1) Neither Here nor There: Travels in Europe        | (False)",
+            "(2) Des Moines, Iowa        | (True)",
+            "(3) The Life and Times of the Thunderbolt Kid        | (False)",
+            "(4) Bill Bryson's African Diary        | (False)",
+            "(5) Notes from a Big Country        | (False)",
+            "(6) Michael Bryson        | (False)",
+            "(7) The Lost Continent: Travels in Small-Town America        | (False)",
+            "(8) The Mother Tongue        | (False)",
+            "(9) Bill Bryson Sr.        | (False)",
+            "(10) Down Under (book)        | (False)"
+        ]
+    },
+    {
+        "id": 101,
+        "question": "Who was the last monarch of England to be overthrown before The English General Election, 1690?",
+        "answer": "King James II of England",
+        "passages": [
+            "(1) English general election, 1689        | (False)",
+            "(2) English general election, 1695        | (False)",
+            "(3) English general election, 1690        | (False)",
+            "(4) English general election, March 1679        | (False)",
+            "(5) English general election, 1685        | (False)",
+            "(6) English general election, October 1679        | (False)",
+            "(7) English general election, 1661        | (False)",
+            "(8) Glorious Revolution        | (False)",
+            "(9) Samuel Manetoali        | (False)",
+            "(10) English general election, 1681        | (False)"
+        ]
+    },
+    {
+        "id": 102,
+        "question": "What song from the fourth studio album made by The Who reached No.4 on the UK charts and No. 19 o nthe U.S. \"Billboard\" Hot 100?",
+        "answer": "Tommy",
+        "passages": [
+            "(1) Danity Kane discography        | (False)",
+            "(2) List of songs recorded by Kesha        | (False)",
+            "(3) Far East Movement        | (False)",
+            "(4) B*Witched discography        | (False)",
+            "(5) Ain't Love a Bitch        | (False)",
+            "(6) Pinball Wizard        | (True)",
+            "(7) Martina McBride discography        | (False)",
+            "(8) Tommy (album)        | (True)",
+            "(9) Jeremih        | (False)",
+            "(10) Train discography        | (False)"
+        ]
+    },
+    {
+        "id": 103,
+        "question": "Angelspit toured the United States with an American electronic music duo from Orlando, Florida, that formed in what year?",
+        "answer": "2006",
+        "passages": [
+            "(1) Blood on the Dance Floor (band)        | (True)",
+            "(2) The Hundred in the Hands (album)        | (False)",
+            "(3) The M Machine        | (False)",
+            "(4) Setting Fires (song)        | (False)",
+            "(5) In Return (Odesza album)        | (False)",
+            "(6) Angelspit        | (True)",
+            "(7) Ammunition (Krewella EP)        | (False)",
+            "(8) Streets of Gold        | (False)",
+            "(9) Harnessed the Storm        | (False)",
+            "(10) White Noise (Disclosure song)        | (False)"
+        ]
+    },
+    {
+        "id": 104,
+        "question": "Migene González-Wippler is leading expert on a religion that developed among which ethnic group ?",
+        "answer": "West African descendants",
+        "passages": [
+            "(1) Ovambo people        | (False)",
+            "(2) Santería        | (False)",
+            "(3) Fezara people        | (False)",
+            "(4) Migene González-Wippler        | (False)"
+        ]
+    },
+    {
+        "id": 105,
+        "question": "Henry Roth and Lewis Mumford are both this nationality?",
+        "answer": "American",
+        "passages": [
+            "(1) Regional Planning Association of America        | (True)",
+            "(2) Lewis Mumford House        | (True)",
+            "(3) The City in History        | (True)",
+            "(4) Megalopolis        | (True)",
+            "(5) Critical Mass (book)        | (False)",
+            "(6) Technics and Civilization        | (True)",
+            "(7) Jack Hillmer        | (True)",
+            "(8) Henry Roth        | (True)",
+            "(9) Lewis Mumford        | (True)"
+        ]
+    },
+    {
+        "id": 106,
+        "question": "Who did Fredric Rieders tesify agains who had killed as many as 60 patients and recieved three consecutive life terms to be served in Florence Colorado?",
+        "answer": "Michael Swango",
+        "passages": [
+            "(1) Primary Care Behavioral health        | (False)",
+            "(2) Fredric Rieders        | (True)",
+            "(3) Vilma Santos        | (False)",
+            "(4) Atlanta murders of 1979–81        | (False)",
+            "(5) Michael Swango        | (True)"
+        ]
+    },
+    {
+        "id": 107,
+        "question": "Who was born first, Juan Rulfo or John le Carré?",
+        "answer": "Juan Rulfo",
+        "passages": [
+            "(1) Call for the Dead        | (False)",
+            "(2) Spy film        | (False)",
+            "(3) The Incongruous Spy        | (False)",
+            "(4) Connie Sachs        | (False)",
+            "(5) John le Carré: The Biography        | (False)",
+            "(6) John le Carré        | (False)",
+            "(7) Control (fictional character)        | (False)",
+            "(8) The Deadly Affair        | (False)",
+            "(9) Juan Rulfo        | (True)",
+            "(10) Joseph Hone        | (False)"
+        ]
+    },
+    {
+        "id": 108,
+        "question": "Where is the company that created Doravirine ( from?",
+        "answer": "American",
+        "passages": [
+            "(1) Merck &amp; Co.        | (True)",
+            "(2) American Laser Games        | (True)",
+            "(3) Devon General        | (False)",
+            "(4) Hercules Inc.        | (True)",
+            "(5) Doravirine        | (False)",
+            "(6) Liquid Assets Paint &amp; Pigment Company        | (False)",
+            "(7) New England Emigrant Aid Company        | (True)"
+        ]
+    },
+    {
+        "id": 109,
+        "question": "What year was the author of Cock and Bull born?",
+        "answer": "1961",
+        "passages": [
+            "(1) Kody Lostroh        | (False)",
+            "(2) Bones (bull)        | (False)",
+            "(3) Colin Fleming (racing driver)        | (False)",
+            "(4) Jan Bull        | (True)",
+            "(5) Buxtehude Bull        | (False)",
+            "(6) Balarama (elephant)        | (False)",
+            "(7) Justin Tranchita        | (False)",
+            "(8) Cock and Bull (book)        | (False)",
+            "(9) Will Self        | (True)",
+            "(10) Guilherme Marchi        | (False)"
+        ]
+    },
+    {
+        "id": 110,
+        "question": "On May 25, 2017 Greg Gianforte won the special election following the resignation of a politican that current holds what position?",
+        "answer": "United States Secretary of the Interior",
+        "passages": [
+            "(1) Beth Turner        | (False)",
+            "(2) San Diego mayoral special election, 2005        | (False)",
+            "(3) David Jacoby        | (False)",
+            "(4) Greg Gianforte        | (True)",
+            "(5) Ryan Zinke        | (True)",
+            "(6) Louisiana State Treasurer special election, 2017        | (False)",
+            "(7) Kevin Aguiar        | (False)",
+            "(8) Mike Aguirre        | (False)"
+        ]
+    },
+    {
+        "id": 111,
+        "question": "The Red Queen's Race is a science fiction short story that uses the Red Queen's race from a novel by Lewis Carroll that is the sequel to what?",
+        "answer": "Alice's Adventures in Wonderland",
+        "passages": [
+            "(1) The Red Queen's Race        | (False)",
+            "(2) Through the Looking-Glass        | (True)",
+            "(3) Red Queen (novel)        | (False)",
+            "(4) Alice in Wonderland (2010 film)        | (True)"
+        ]
+    },
+    {
+        "id": 112,
+        "question": "What was the home city of the author of the famous novel tracing the life of a male roe deer from his birth onward?",
+        "answer": "Vienna",
+        "passages": [
+            "(1) Siberian roe deer        | (False)",
+            "(2) Bambi, a Life in the Woods        | (True)",
+            "(3) Felix Salten        | (True)",
+            "(4) Roe Green Park        | (False)",
+            "(5) Deer of Great Britain        | (False)",
+            "(6) Roe deer        | (False)",
+            "(7) 5.6×57mm        | (False)",
+            "(8) Whitetail Deer Cutaneous Fibroma        | (False)"
+        ]
+    },
+    {
+        "id": 113,
+        "question": "Are Tantrix and Personal Preference both types of games?",
+        "answer": "yes",
+        "passages": [
+            "(1) Fishing rod tapers        | (False)",
+            "(2) Personal Preference        | (False)",
+            "(3) Pie floater        | (False)",
+            "(4) Personal Taste        | (False)",
+            "(5) Song Ji-hyo's Beauty View        | (False)",
+            "(6) Crab trap        | (False)",
+            "(7) Jianbing        | (False)",
+            "(8) Tantrix        | (False)",
+            "(9) Sexual racism        | (False)"
+        ]
+    },
+    {
+        "id": 114,
+        "question": "1956 Night Series Cup games were played at what inner suburb of Melbourne that is 3km south of Melbourne's central business district?",
+        "answer": "Albert Park",
+        "passages": [
+            "(1) 1961 Night Series Cup        | (True)",
+            "(2) 1971 Heinz Cup        | (True)",
+            "(3) 1965 Golden Fleece Cup        | (True)",
+            "(4) 1956 Night Series Cup        | (False)",
+            "(5) 1958 Night Series Cup        | (True)",
+            "(6) 1960 Night Series Cup        | (True)",
+            "(7) Albert Park, Victoria        | (True)",
+            "(8) 1957 Night Series Cup        | (True)",
+            "(9) 1966 Golden Fleece Cup        | (True)",
+            "(10) 1967 Golden Fleece Cup        | (True)"
+        ]
+    },
+    {
+        "id": 115,
+        "question": "Sarah Price and Rob Schneider are both what profession?",
+        "answer": "director",
+        "passages": [
+            "(1) Elle King        | (False)",
+            "(2) Big Stan        | (True)",
+            "(3) John Schneider (producer)        | (False)",
+            "(4) Sarah Price (filmmaker)        | (True)",
+            "(5) Registered Offender        | (False)",
+            "(6) Real Rob        | (False)",
+            "(7) Rob Schneider        | (True)",
+            "(8) Deuce Bigalow: Male Gigolo        | (False)",
+            "(9) Rob (TV series)        | (False)",
+            "(10) The Hot Chick        | (False)"
+        ]
+    },
+    {
+        "id": 116,
+        "question": "What rule-class city of 26,595 contains the neighborhood Plainview?",
+        "answer": "Jeffersontown, Kentucky",
+        "passages": [
+            "(1) Middletown, Kentucky        | (False)",
+            "(2) Grayson, Kentucky        | (False)",
+            "(3) Poplar Hills, Kentucky        | (False)",
+            "(4) Jeffersontown, Kentucky        | (True)",
+            "(5) Central City, Kentucky        | (False)",
+            "(6) Plainview, Louisville        | (True)",
+            "(7) Hickman, Kentucky        | (False)",
+            "(8) Moorland, Kentucky        | (False)",
+            "(9) Meadowbrook Farm, Kentucky        | (False)",
+            "(10) Corbin, Kentucky        | (False)"
+        ]
+    },
+    {
+        "id": 117,
+        "question": "Who directed the film where Susanne Pollatschek voiced Olivia Flaversham?",
+        "answer": "Burny Mattinson, David Michener, and the team of John Musker and Ron Clements",
+        "passages": [
+            "(1) Chaste Susanne (film)        | (False)",
+            "(2) The Night Manager (miniseries)        | (False)",
+            "(3) The Great Mouse Detective        | (False)",
+            "(4) The One and Only (1999 film)        | (False)",
+            "(5) Brothers (2009 film)        | (False)",
+            "(6) A Boy and His Dog (1975 film)        | (False)",
+            "(7) Susanne Pollatschek        | (False)"
+        ]
+    },
+    {
+        "id": 118,
+        "question": "What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?",
+        "answer": "WAMC",
+        "passages": [
+            "(1) KCND        | (False)",
+            "(2) Eric Plakun        | (True)",
+            "(3) Steve Robinson (executive)        | (False)",
+            "(4) New Jersey Network        | (False)",
+            "(5) WPPR        | (False)",
+            "(6) Minnesota Public Radio        | (False)",
+            "(7) WAMC        | (True)",
+            "(8) AMPERS        | (False)",
+            "(9) KMXT (FM)        | (False)",
+            "(10) WGPB        | (False)"
+        ]
+    },
+    {
+        "id": 119,
+        "question": "Don Holmes played for the football club that is based in what eastern suburb of Perth?",
+        "answer": "Bassendean",
+        "passages": [
+            "(1) West Australian Football Club        | (False)",
+            "(2) Graham Farmer        | (False)",
+            "(3) List of Perth Glory FC players        | (False)",
+            "(4) Leederville Oval        | (False)",
+            "(5) Norwood Oval        | (False)",
+            "(6) Don Holmes        | (True)",
+            "(7) Victorian Football Club (Western Australia)        | (False)",
+            "(8) Don Marinko, Sr.        | (False)",
+            "(9) East Perth Football Club        | (True)",
+            "(10) Swan Districts Football Club        | (True)"
+        ]
+    },
+    {
+        "id": 120,
+        "question": "Hardley Flood is an area of lagoons that support populations of the waterfowl that are a medium sized version of what animal?",
+        "answer": "duck",
+        "passages": [
+            "(1) Zencap        | (False)",
+            "(2) Common pochard        | (True)",
+            "(3) Business Growth Fund        | (False)",
+            "(4) Hardley Flood        | (False)",
+            "(5) China IPR SME Helpdesk        | (False)",
+            "(6) Scathophaga        | (False)",
+            "(7) Palmer Hay Flats State Game Refuge        | (True)",
+            "(8) Gobizkorea        | (False)",
+            "(9) River Chet        | (False)",
+            "(10) Chañaral Island        | (False)"
+        ]
+    },
+    {
+        "id": 121,
+        "question": "Which is a shrub, Mimosa or Cryptocoryne?",
+        "answer": "Mimosa",
+        "passages": [
+            "(1) Mimosa        | (True)",
+            "(2) Mimosa somnians        | (True)",
+            "(3) Mimosa turneri        | (True)",
+            "(4) Mimosa aculeaticarpa        | (True)",
+            "(5) Mimosa invisa        | (True)",
+            "(6) Mimosa rubicaulis        | (True)",
+            "(7) Mimosa hamata        | (True)",
+            "(8) Cryptocoryne        | (False)",
+            "(9) Mimosa tenuiflora        | (True)",
+            "(10) Mimosa texana        | (True)"
+        ]
+    },
+    {
+        "id": 122,
+        "question": "What types of activities occur in both the Bennington and Bridgewater Triangles?",
+        "answer": "alleged paranormal phenomena",
+        "passages": [
+            "(1) Bennington Triangle        | (False)",
+            "(2) Van Arkel–Ketelaar triangle        | (False)",
+            "(3) Urban agriculture        | (False)",
+            "(4) Displacement activity        | (False)",
+            "(5) Race engineer        | (False)",
+            "(6) JAK Members Bank        | (False)",
+            "(7) Bridgewater Triangle        | (True)",
+            "(8) Context-sensitive solutions (transport)        | (False)"
+        ]
+    },
+    {
+        "id": 123,
+        "question": "Carlos Salazar Lomelín is the CEO of which Mexican multinational beverage retailer?",
+        "answer": "Fomento Económico Mexicano",
+        "passages": [
+            "(1) Coca-Cola FEMSA        | (False)",
+            "(2) Cornelio Velásquez        | (False)",
+            "(3) The Coca-Cola Company        | (False)",
+            "(4) FEMSA        | (True)",
+            "(5) Alle tiders kupp        | (False)",
+            "(6) Carlos Salazar Lomelín        | (False)",
+            "(7) Carlos Salazar (actor)        | (False)",
+            "(8) Juan Carlos Salazar        | (False)",
+            "(9) Carlos Salazar Herrera        | (False)",
+            "(10) Vinmonopolet        | (False)"
+        ]
+    },
+    {
+        "id": 124,
+        "question": "Who stars in the title role of a Netflix show co-created by Robert Carlock?",
+        "answer": "Ellie Kemper",
+        "passages": [
+            "(1) List of Unbreakable Kimmy Schmidt episodes        | (True)",
+            "(2) Robert Carlock        | (False)",
+            "(3) Live Show        | (False)",
+            "(4) Episode 210        | (False)",
+            "(5) Azie Mira Dungey        | (False)",
+            "(6) Operation Righteous Cowboy Lightning        | (False)",
+            "(7) Kidney Now!        | (False)",
+            "(8) 100 (30 Rock)        | (False)",
+            "(9) Unbreakable Kimmy Schmidt        | (True)"
+        ]
+    },
+    {
+        "id": 125,
+        "question": "Are Yut and Tsuro both board games?",
+        "answer": "yes",
+        "passages": [
+            "(1) List of word board games        | (False)",
+            "(2) Glossary of board games        | (False)",
+            "(3) Bear games        | (False)",
+            "(4) BoardGameGeek        | (False)",
+            "(5) David Parlett        | (False)",
+            "(6) Yut        | (False)",
+            "(7) Francis Tresham (game designer)        | (False)",
+            "(8) Days of Wonder        | (False)",
+            "(9) Tsuro        | (False)",
+            "(10) Robert Charles Bell        | (False)"
+        ]
+    },
+    {
+        "id": 126,
+        "question": "What is the name of this suburb within the Central Coast Council local government area, where Tessa, of Microwave Jenny, grew up?",
+        "answer": "Umina Beach, New South Wales",
+        "passages": [
+            "(1) Avoca Beach, New South Wales        | (False)",
+            "(2) Hamlyn Terrace, New South Wales        | (False)",
+            "(3) Woy Woy Bay, New South Wales        | (False)",
+            "(4) Phegans Bay, New South Wales        | (False)",
+            "(5) Umina Beach, New South Wales        | (True)",
+            "(6) Shelly Beach, New South Wales        | (False)",
+            "(7) Magenta, New South Wales        | (False)",
+            "(8) Gorokan, New South Wales        | (False)",
+            "(9) Kulnura, New South Wales        | (False)",
+            "(10) Microwave Jenny        | (True)"
+        ]
+    },
+    {
+        "id": 127,
+        "question": "What city in the Philippines is home to the Robinsons Galleria and the 4th largest shopping mall in the world?",
+        "answer": "Metro Manila",
+        "passages": [
+            "(1) Robinsons Place Butuan        | (False)",
+            "(2) Robinsons Novaliches        | (True)",
+            "(3) Robinsons Place Las Piñas        | (False)",
+            "(4) Robinsons Galleria Cebu        | (True)",
+            "(5) Robinsons Place Manila        | (False)",
+            "(6) Robinsons Metro East        | (True)",
+            "(7) SM City Cebu        | (True)",
+            "(8) Robinsons Galleria        | (True)",
+            "(9) Robinsons Town Mall Malabon        | (True)",
+            "(10) SM Megamall        | (True)"
+        ]
+    },
+    {
+        "id": 128,
+        "question": "What organization does Sandra Pizzarello and Doctorate have in common?",
+        "answer": "University",
+        "passages": [
+            "(1) John C. Sigler        | (True)",
+            "(2) Jubilee doctor        | (False)",
+            "(3) Doctorate        | (True)",
+            "(4) Sandra Pizzarello        | (True)",
+            "(5) Sandra Eades        | (True)",
+            "(6) Herbert A. Shepard        | (True)"
+        ]
+    },
+    {
+        "id": 129,
+        "question": "Did Qionghai or Suining  have a population of 658,798 in 2002?",
+        "answer": "In 2002, Suining had a population of 658,798.",
+        "passages": [
+            "(1) Qionghai        | (False)",
+            "(2) Daying County        | (False)",
+            "(3) Suining        | (True)"
+        ]
+    },
+    {
+        "id": 130,
+        "question": "What form of play does Yameen and Activision have in common?",
+        "answer": "video game",
+        "passages": [
+            "(1) Yameen        | (False)",
+            "(2) Right Back at It Again        | (False)",
+            "(3) Form 8-K        | (False)",
+            "(4) Lotion play        | (False)",
+            "(5) The Legend of Spyro: Dawn of the Dragon        | (True)",
+            "(6) Activision        | (True)",
+            "(7) Intellivision Rocks        | (True)",
+            "(8) Raven Software        | (True)"
+        ]
+    },
+    {
+        "id": 131,
+        "question": "Are both Frank Lloyd and Olivier Assayas American film directors?",
+        "answer": "no",
+        "passages": [
+            "(1) Frank Lloyd        | (True)",
+            "(2) Zeitgeist Films        | (True)",
+            "(3) Graduation (2016 film)        | (True)",
+            "(4) Olivier Assayas        | (True)",
+            "(5) Jorge Arriagada        | (True)",
+            "(6) Irma Vep        | (True)",
+            "(7) Something in the Air (2012 film)        | (False)",
+            "(8) Clouds of Sils Maria        | (True)",
+            "(9) Eddie's House        | (True)",
+            "(10) Cold Water (film)        | (True)"
+        ]
+    },
+    {
+        "id": 132,
+        "question": "What was the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering?",
+        "answer": "French mathematician and physicist",
+        "passages": [
+            "(1) Power factor        | (False)",
+            "(2) Womersley number        | (False)",
+            "(3) Weissenberg number        | (False)",
+            "(4) Ericksen number        | (False)",
+            "(5) Qualified Person for Pharmacovigilance        | (False)",
+            "(6) Joseph Fourier        | (True)",
+            "(7) Morton number        | (False)",
+            "(8) Kapitza number        | (False)",
+            "(9) Fourier number        | (False)"
+        ]
+    },
+    {
+        "id": 133,
+        "question": "Santa Bring My Baby Back was released on which fourth Elvis studio album in 1957?",
+        "answer": "Elvis' Christmas Album",
+        "passages": [
+            "(1) Elvis' Christmas Album        | (True)",
+            "(2) Today (Elvis Presley album)        | (False)",
+            "(3) A Date with Elvis (The Cramps album)        | (False)",
+            "(4) Like a Baby        | (False)",
+            "(5) Santa Bring My Baby Back (To Me)        | (True)",
+            "(6) List of songs recorded by Britney Spears        | (False)",
+            "(7) Heaven Only Knows (album)        | (False)",
+            "(8) Mark Chesnutt (album)        | (False)",
+            "(9) Oh Santa!        | (False)",
+            "(10) Black Elvis/Lost in Space        | (False)"
+        ]
+    },
+    {
+        "id": 134,
+        "question": "Camp Courtney was named after the Major killed in action at the battle codenamed what?",
+        "answer": "Operation Iceberg",
+        "passages": [
+            "(1) Camp Casey, South Korea        | (False)",
+            "(2) Denis Vetchinov        | (False)",
+            "(3) 3rd Marine Division (United States)        | (False)",
+            "(4) Camp Courtney        | (False)",
+            "(5) Battle of Okinawa        | (True)",
+            "(6) Battle of Jupiter Inlet        | (False)",
+            "(7) Camp Hovey        | (False)"
+        ]
+    },
+    {
+        "id": 135,
+        "question": "Baraki Barak District is situated in the western part of a province whose capital is what?",
+        "answer": "Puli Alam",
+        "passages": [
+            "(1) Baraki Barak airstrike        | (False)",
+            "(2) Baraki Barak District        | (True)",
+            "(3) Baraki Barak        | (False)",
+            "(4) Lunda Norte Province        | (False)",
+            "(5) Mahsud        | (False)",
+            "(6) Kathiawar Agency        | (False)",
+            "(7) Baraki Rajan        | (False)",
+            "(8) Logar Province        | (True)",
+            "(9) Forward Operating Base Shank        | (False)",
+            "(10) Camptown (country subdivision)        | (False)"
+        ]
+    },
+    {
+        "id": 136,
+        "question": "Who is a winner of the 2013 6 Hours of Silverstone a co-commentator for?",
+        "answer": "BBC Formula One",
+        "passages": [
+            "(1) 2014 6 Hours of Silverstone        | (False)",
+            "(2) 2013 6 Hours of São Paulo        | (False)",
+            "(3) 6 Hours of Silverstone        | (False)",
+            "(4) Renato Molinari        | (False)",
+            "(5) 2013 6 Hours of Bahrain        | (False)",
+            "(6) Allan McNish        | (True)",
+            "(7) 2013 6 Hours of Shanghai        | (False)",
+            "(8) 2013 6 Hours of Fuji        | (False)",
+            "(9) Trela nera        | (False)",
+            "(10) 2013 6 Hours of Silverstone        | (False)"
+        ]
+    },
+    {
+        "id": 137,
+        "question": "The \"New York Times\" bestselling book \"The 50th Law\" contains lessons and anecdotes from this historical figure who was a classical Greek (Athenian) philosopher who is known mainly through the writings of which philosopher?",
+        "answer": "Plato",
+        "passages": [
+            "(1) Stones into Schools        | (False)",
+            "(2) Socrates        | (True)",
+            "(3) The 50th Law        | (False)",
+            "(4) Trust Me, I'm Lying        | (False)",
+            "(5) Bianca Bosker        | (False)",
+            "(6) The Nasty Bits        | (False)",
+            "(7) Andrew Ross Sorkin        | (False)",
+            "(8) G-Unit Books        | (False)"
+        ]
+    },
+    {
+        "id": 138,
+        "question": "Where is the host of the American survival skills reality show, The Island, originally from?",
+        "answer": "Northern Ireland",
+        "passages": [
+            "(1) Eugene Porter        | (False)",
+            "(2) Survive This        | (False)",
+            "(3) Cody Lundin        | (False)",
+            "(4) Les Stroud        | (False)",
+            "(5) The Island (U.S. TV series)        | (False)",
+            "(6) Bear Grylls        | (True)"
+        ]
+    },
+    {
+        "id": 139,
+        "question": "Who was born later, Jerry Garcia or Joe Gooch?",
+        "answer": "Joe Gooch",
+        "passages": [
+            "(1) The Very Best of Jerry Garcia        | (False)",
+            "(2) Joe Gooch        | (True)",
+            "(3) Jerry Garcia        | (False)",
+            "(4) Garcia Plays Dylan        | (False)",
+            "(5) Cats Under the Stars        | (False)",
+            "(6) Sugaree        | (False)",
+            "(7) Sandy Rothman        | (False)"
+        ]
+    },
+    {
+        "id": 140,
+        "question": "What do Lavinia Greenlaw and Nâzım Hikmet have in common?",
+        "answer": "poet and novelist",
+        "passages": [
+            "(1) Mirtemir        | (False)",
+            "(2) Lavinia exilicauda        | (False)",
+            "(3) UEA Creative Writing Course        | (False)",
+            "(4) International Nazim Hikmet Poetry Award        | (False)",
+            "(5) Lavinia Greenlaw        | (False)",
+            "(6) Nâzım Hikmet        | (False)",
+            "(7) Mehmed Ali Pasha (marshal)        | (False)"
+        ]
+    },
+    {
+        "id": 141,
+        "question": "Le Rêve was created by the director behind what Cirque du Soleil production from 1998 onward?",
+        "answer": "O",
+        "passages": [
+            "(1) Carolina Moraes        | (True)",
+            "(2) Isabela Moraes        | (True)",
+            "(3) Zumanity        | (True)",
+            "(4) Mystère (Cirque du Soleil)        | (True)",
+            "(5) O (Cirque du Soleil)        | (True)",
+            "(6) Le Rêve (show)        | (True)"
+        ]
+    },
+    {
+        "id": 142,
+        "question": "Where is the University Joe Odom played football for located?",
+        "answer": "West Lafayette, Indiana",
+        "passages": [
+            "(1) Joe Fincham        | (False)",
+            "(2) James C. Donnelly        | (False)",
+            "(3) Joe Simmons (coach)        | (False)",
+            "(4) Joe Odom        | (False)",
+            "(5) Sammy Joe Odom        | (False)",
+            "(6) Purdue University        | (True)",
+            "(7) Joe West (umpire)        | (False)"
+        ]
+    },
+    {
+        "id": 143,
+        "question": "Roger Stuart Woolhouse is a biographer of a philosopher commonly known as what ?",
+        "answer": "Father of Liberalism",
+        "passages": [
+            "(1) Philip Carlo        | (False)",
+            "(2) John Locke        | (False)",
+            "(3) Stuart's Stranglers        | (False)",
+            "(4) Ninian Crichton Stuart        | (False)",
+            "(5) Roger Thatcher        | (False)",
+            "(6) Roger Guerreiro        | (False)",
+            "(7) Roger Woolhouse        | (False)"
+        ]
+    },
+    {
+        "id": 144,
+        "question": "National Firearms Agreement was in response to the Port Arthur massacre that killed how many people?",
+        "answer": "35 people",
+        "passages": [
+            "(1) Tasmania First Party        | (False)",
+            "(2) Martin Bryant        | (True)",
+            "(3) Port Arthur massacre (Australia)        | (True)",
+            "(4) Memorial High School (Port Arthur, Texas)        | (False)",
+            "(5) National Firearms Agreement        | (True)",
+            "(6) Museum of the Gulf Coast        | (False)",
+            "(7) Glover Prize        | (False)",
+            "(8) Port Arthur massacre (China)        | (False)"
+        ]
+    },
+    {
+        "id": 145,
+        "question": "The telenova \"El Ardiente Secreto\" was based ona novel published under what pen name?",
+        "answer": "\"Currer Bell\"",
+        "passages": [
+            "(1) Ardiente secreto        | (False)",
+            "(2) El Ardiente Secreto        | (False)",
+            "(3) Jeff Sampson        | (False)",
+            "(4) Story of O        | (False)",
+            "(5) The Dice Man        | (False)",
+            "(6) Colin Falconer (writer)        | (False)",
+            "(7) The Cuckoo Clock        | (False)",
+            "(8) Jane Eyre        | (True)",
+            "(9) Aunt Jane's Nieces        | (False)"
+        ]
+    },
+    {
+        "id": 146,
+        "question": "Are both French Spaniel and Beagle universally recognized breeds?",
+        "answer": "no",
+        "passages": [
+            "(1) Picardy Spaniel        | (True)",
+            "(2) List of goat breeds        | (True)",
+            "(3) Beaglier        | (True)",
+            "(4) Beagle        | (True)",
+            "(5) List of turkey breeds        | (True)",
+            "(6) French Spaniel        | (True)",
+            "(7) American Cocker Spaniel        | (True)",
+            "(8) Water spaniel        | (False)",
+            "(9) Welsh Springer Spaniel        | (True)"
+        ]
+    },
+    {
+        "id": 147,
+        "question": "In what year did the Tornoto International Film Fesitval premiere a movie produced by BBC Films?",
+        "answer": "2011",
+        "passages": [
+            "(1) Jonathan Miles (filmmaker)        | (False)",
+            "(2) The Meerkats        | (False)",
+            "(3) The Gardener (2012 film)        | (False)",
+            "(4) BBC Films        | (True)",
+            "(5) Rupert's Land (film)        | (False)",
+            "(6) A Little Chaos        | (False)",
+            "(7) Salmon Fishing in the Yemen        | (True)",
+            "(8) Company Pictures        | (False)",
+            "(9) L (film)        | (True)"
+        ]
+    },
+    {
+        "id": 148,
+        "question": "The FIBT World Championships 1960 took place in a town located in which part of Italy ?",
+        "answer": "the Veneto region of Northern Italy",
+        "passages": [
+            "(1) FIBT World Championships 1960        | (False)",
+            "(2) Steven Langton        | (False)",
+            "(3) Urs Aeberhand        | (False)",
+            "(4) FIBT World Championships 1981        | (False)",
+            "(5) Eugenio Monti track        | (False)",
+            "(6) Katie Uhlaender        | (False)",
+            "(7) FIBT World Championships 1951        | (False)",
+            "(8) Andreas Barucha        | (False)",
+            "(9) Cortina d'Ampezzo        | (True)",
+            "(10) FIBT World Championships 1966        | (False)"
+        ]
+    },
+    {
+        "id": 149,
+        "question": "When was the club formed, for which Adam  Johnson played as well as Middlesbrough and Watford ?",
+        "answer": "1919",
+        "passages": [
+            "(1) Phil Stamp        | (False)",
+            "(2) St Albans RFC        | (False)",
+            "(3) Adam Johnson (footballer)        | (False)",
+            "(4) Carl Johnson (soccer)        | (False)",
+            "(5) Leeds United F.C.        | (True)",
+            "(6) Darrius Johnson        | (False)"
+        ]
+    },
+    {
+        "id": 150,
+        "question": "In modern history of Syria this kingdom lasted for only four months, this kingdom surrendered to who?",
+        "answer": "French",
+        "passages": [
+            "(1) Arab Kingdom of Syria        | (True)",
+            "(2) Gouding        | (False)",
+            "(3) Modern history of Syria        | (True)",
+            "(4) Ganzhou Uyghur Kingdom        | (False)",
+            "(5) Omukama of Toro        | (False)",
+            "(6) Omukama of Bunyoro        | (False)",
+            "(7) Syrian National Congress        | (True)",
+            "(8) Herodian dynasty        | (True)"
+        ]
+    },
+    {
+        "id": 151,
+        "question": "An American who is a German literature translator and did a thesis on an Austrian prodigy born in 1874 taught at which university?",
+        "answer": "University of Vienna",
+        "passages": [
+            "(1) Vincent Kling (translator)        | (True)",
+            "(2) Sally-Ann Spencer        | (False)",
+            "(3) Hugo von Hofmannsthal        | (True)",
+            "(4) George Guțu        | (False)",
+            "(5) Austrian literature        | (False)",
+            "(6) Inta Ezergailis        | (False)",
+            "(7) İhsan Oktay Anar        | (False)",
+            "(8) Michael Werner (publisher)        | (False)"
+        ]
+    },
+    {
+        "id": 152,
+        "question": "What past honoree from the New Dramatists Organization is a powerful baritone who won the Tony Award for Best Actor in 2000?",
+        "answer": "Brian Stokes Mitchell",
+        "passages": [
+            "(1) Brian Stokes Mitchell        | (True)",
+            "(2) Nigel Hawthorne        | (False)",
+            "(3) Gordon Dahlquist        | (False)",
+            "(4) Special Tony Award        | (False)",
+            "(5) Eddie Vedder        | (False)",
+            "(6) Paulo Szot        | (False)",
+            "(7) New Dramatists        | (True)",
+            "(8) Steve Cosson        | (False)"
+        ]
+    },
+    {
+        "id": 153,
+        "question": "3 Arts Entertainment had at least one coalition with what streaming service, with its 13-episode, 2015 season of a Tina Fey created sitcom?",
+        "answer": "Netflix",
+        "passages": [
+            "(1) Great News        | (False)",
+            "(2) 3 Arts Entertainment        | (False)",
+            "(3) Louie (season 2)        | (False)",
+            "(4) The Mindy Project        | (False)",
+            "(5) Louie (season 5)        | (False)",
+            "(6) Unbreakable Kimmy Schmidt        | (True)",
+            "(7) List of 30 Rock episodes        | (False)",
+            "(8) Cooter (30 Rock)        | (False)",
+            "(9) Louie (season 4)        | (False)"
+        ]
+    },
+    {
+        "id": 154,
+        "question": "Were the board games, Clans and Drunter und Drüber, both created by Leo Colovini?",
+        "answer": "Drunter und Drüber is a multiplayer board game invented by Klaus Teuber",
+        "passages": [
+            "(1) List of word board games        | (False)",
+            "(2) Clans (board game)        | (False)",
+            "(3) Drunter und Drüber        | (False)",
+            "(4) Alex Randolph        | (False)",
+            "(5) Familienbande        | (False)",
+            "(6) Inkognito        | (False)",
+            "(7) Leo Colovini        | (False)",
+            "(8) Francis Tresham (game designer)        | (False)",
+            "(9) David Parlett        | (False)",
+            "(10) Glossary of board games        | (False)"
+        ]
+    },
+    {
+        "id": 155,
+        "question": "Broadbent Arena and Freedom Hall are landmarks of which U.S. city?",
+        "answer": "Louisville",
+        "passages": [
+            "(1) Louisville Thunder        | (True)",
+            "(2) Louisville Icehawks        | (True)",
+            "(3) Kentucky Athletic Hall of Fame        | (True)",
+            "(4) Freedom Hall        | (True)",
+            "(5) Cleveland City Hall        | (False)",
+            "(6) Louisville RiverFrogs        | (True)",
+            "(7) Louisville Fire        | (True)",
+            "(8) Broadbent Arena        | (True)",
+            "(9) Freedom Hall Civic Center        | (False)",
+            "(10) Johnson City 2001        | (False)"
+        ]
+    },
+    {
+        "id": 156,
+        "question": "What side-scrolling platform game had Christian Whitehead as project lead?",
+        "answer": "Sonic Mania",
+        "passages": [
+            "(1) Pop'n TwinBee        | (False)",
+            "(2) Super Ghouls 'n Ghosts        | (False)",
+            "(3) Plok        | (False)",
+            "(4) Sonic Mania        | (True)",
+            "(5) Captain Comic        | (False)",
+            "(6) Christian Whitehead        | (True)"
+        ]
+    },
+    {
+        "id": 157,
+        "question": "Which racecar driver who performed in the 1971 Canadian Grand Prix was born in 1937?",
+        "answer": "Mark Neary Donohue Jr.",
+        "passages": [
+            "(1) Richie Ginther        | (False)",
+            "(2) Bobby Santos III        | (False)",
+            "(3) 1971 Canadian Grand Prix        | (False)",
+            "(4) Peter Ryan (racing driver)        | (False)",
+            "(5) Bob Drake (racing driver)        | (False)",
+            "(6) 2010 Canadian Grand Prix        | (False)",
+            "(7) Kevin Cogan        | (False)",
+            "(8) Mark Donohue        | (True)"
+        ]
+    },
+    {
+        "id": 158,
+        "question": "What career led Brandon James Routh to move to the city where Brian Ralston lives?",
+        "answer": "an acting career",
+        "passages": [
+            "(1) B. J. Garbe        | (False)",
+            "(2) Pilot (Scream)        | (False)",
+            "(3) Marcus Sedatius Severianus        | (False)",
+            "(4) Brandon Routh        | (False)",
+            "(5) Brandon Fleming (footballer)        | (False)",
+            "(6) Paul Michaux        | (False)",
+            "(7) Brandon Williams (defensive tackle)        | (False)",
+            "(8) Brian Ralston        | (False)",
+            "(9) Franz Walz        | (False)",
+            "(10) Brandon Keener        | (False)"
+        ]
+    },
+    {
+        "id": 159,
+        "question": "What was the first film scored by the man who composed the soundtrack for Udhayam NH4?",
+        "answer": "Veyyil",
+        "passages": [
+            "(1) Manimaran        | (False)",
+            "(2) The Godfather Part II (soundtrack)        | (False)",
+            "(3) True Grit: Original Motion Picture Soundtrack        | (False)",
+            "(4) Ashrita Shetty        | (False)",
+            "(5) Grass Root Film Company        | (False)",
+            "(6) Music of the Mega Man Zero series        | (False)",
+            "(7) JK Enum Nanbanin Vaazhkai        | (False)",
+            "(8) Udhayam NH4        | (False)",
+            "(9) Interstellar (soundtrack)        | (False)",
+            "(10) G. V. Prakash Kumar        | (False)"
+        ]
+    },
+    {
+        "id": 160,
+        "question": "What is the day of the horse race of which ESPN covers both the post position draw and the undercard races?",
+        "answer": "Saturday",
+        "passages": [
+            "(1) Thoroughbred Racing on ESPN        | (True)",
+            "(2) Political handicapping        | (False)",
+            "(3) Set Weights        | (False)",
+            "(4) 2013 Preakness Stakes        | (False)",
+            "(5) Kentucky Derby        | (True)",
+            "(6) Claiming race        | (False)",
+            "(7) Miss Preakness Stakes        | (False)",
+            "(8) Alysheba Stakes        | (False)",
+            "(9) Jim McKay Turf Sprint        | (False)",
+            "(10) Horse Racing (video game)        | (False)"
+        ]
+    },
+    {
+        "id": 161,
+        "question": "Kevin Yorn an American entertainment attorney who represents an Australian actor who  played the role of Josh Taylor in what soap opera?",
+        "answer": "Neighbours",
+        "passages": [
+            "(1) Roman Brady        | (False)",
+            "(2) Kevin Yorn        | (False)",
+            "(3) L. Londell McMillan        | (False)",
+            "(4) Liam Hemsworth        | (True)",
+            "(5) Stefan Dennis        | (True)",
+            "(6) Lisa A. Callif        | (False)",
+            "(7) Ernest Del        | (False)",
+            "(8) Umar Lubis        | (False)",
+            "(9) Michael C. Donaldson        | (False)"
+        ]
+    },
+    {
+        "id": 162,
+        "question": "What stagecoach robber did Frederick John Fulton prosecute?",
+        "answer": "Bill Miner",
+        "passages": [
+            "(1) John Fulton (instrument maker)        | (False)",
+            "(2) Davie Fulton        | (False)",
+            "(3) Harry the Kid        | (False)",
+            "(4) List of The Dillinger Escape Plan band members        | (False)",
+            "(5) Buck English        | (False)",
+            "(6) Bill Miner        | (True)",
+            "(7) The Grey Fox        | (True)",
+            "(8) Douglas Burrows        | (False)",
+            "(9) John Fulton Folinsbee        | (False)",
+            "(10) Frederick John Fulton        | (True)"
+        ]
+    },
+    {
+        "id": 163,
+        "question": "H-63 is a highway that runs near the county seat of what Michigan county?",
+        "answer": "Chippewa County",
+        "passages": [
+            "(1) Marginal Tietê        | (False)",
+            "(2) Sault Ste. Marie, Michigan        | (True)",
+            "(3) Saskatchewan Highway 316        | (False)",
+            "(4) H-63 (Michigan county highway)        | (True)",
+            "(5) County Road 492 (Marquette County, Michigan)        | (False)",
+            "(6) Manistee County, Michigan        | (False)",
+            "(7) Saginaw County, Michigan        | (False)"
+        ]
+    },
+    {
+        "id": 164,
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "answer": "3,677 seated",
+        "passages": [
+            "(1) Lewiston Maineiacs        | (False)",
+            "(2) Billings Bulls        | (False)",
+            "(3) Case Gym        | (False)",
+            "(4) Robins Center        | (False)",
+            "(5) 2007 Memorial Cup        | (False)",
+            "(6) Dwyer Arena        | (False)",
+            "(7) 2006–07 QMJHL season        | (False)",
+            "(8) Androscoggin Bank Colisée        | (True)",
+            "(9) 2011–12 QMJHL season        | (False)",
+            "(10) Loan modification in the United States        | (False)"
+        ]
+    },
+    {
+        "id": 165,
+        "question": "Which ocean would the ingredients likely come from for the She-crab soup?",
+        "answer": "Atlantic Ocean",
+        "passages": [
+            "(1) Avocado soup        | (False)",
+            "(2) Lettuce soup        | (False)",
+            "(3) Spinach soup        | (False)",
+            "(4) Spring soup        | (False)",
+            "(5) Tidewater region        | (True)",
+            "(6) Peanut soup        | (False)",
+            "(7) She-crab soup        | (False)",
+            "(8) Syodon        | (False)",
+            "(9) Watercress soup        | (False)",
+            "(10) 1996 PW        | (False)"
+        ]
+    },
+    {
+        "id": 166,
+        "question": "What profession do Raj Kapoor and Mike Cahill share?",
+        "answer": "director",
+        "passages": [
+            "(1) Ram Teri Ganga Maili        | (True)",
+            "(2) Kal Aaj Aur Kal        | (False)",
+            "(3) Divya Rana        | (False)",
+            "(4) Prem Rog        | (False)",
+            "(5) Shree 420        | (False)",
+            "(6) Karan Kapoor        | (False)",
+            "(7) Mera Naam Joker        | (False)",
+            "(8) Mike Cahill (director)        | (True)",
+            "(9) Aag (1948 film)        | (True)",
+            "(10) Raj Kapoor        | (True)"
+        ]
+    },
+    {
+        "id": 167,
+        "question": "The 2011 La Manga Cup was won by Viking, who beat which Norwegian football club from the town of Kristiansand, currently playing in Tippeligaen having been promoted from Adeccoligaen in 2012?",
+        "answer": "IK Start",
+        "passages": [
+            "(1) Sarpsborg 08 FF        | (False)",
+            "(2) 2014 La Manga Cup        | (False)",
+            "(3) 2010 La Manga Cup        | (False)",
+            "(4) IK Start        | (True)",
+            "(5) 2013 La Manga Cup        | (False)",
+            "(6) La Manga Cup        | (False)",
+            "(7) 2015 La Manga Cup        | (False)",
+            "(8) 2012 La Manga Cup        | (False)",
+            "(9) 2001 Norwegian Football Cup Final        | (False)",
+            "(10) 2011 La Manga Cup        | (False)"
+        ]
+    },
+    {
+        "id": 168,
+        "question": "What colors are worn by the Oregon Duck, mascot of the University of Oregon athletic teams?",
+        "answer": "green and yellow",
+        "passages": [
+            "(1) Oregon Marching Band        | (False)",
+            "(2) Leo Harris        | (False)",
+            "(3) Petey (mascot)        | (False)",
+            "(4) The Oregon Duck        | (True)",
+            "(5) Texas A&amp;M–Kingsville Javelinas        | (False)",
+            "(6) Oregon Ducks        | (False)",
+            "(7) Presbyterian Blue Hose        | (False)",
+            "(8) Les Schwab Invitational        | (False)"
+        ]
+    },
+    {
+        "id": 169,
+        "question": "What is the character of fictional character Claire Fraser in a British-American television drama series developed by Ronald D. Moore ?",
+        "answer": "Claire is a married World War II nurse",
+        "passages": [
+            "(1) Simon Woods        | (False)",
+            "(2) Claire Fraser (character)        | (True)",
+            "(3) The Flashman Papers        | (False)",
+            "(4) Claire Bennet        | (False)",
+            "(5) On a Claire Day        | (False)",
+            "(6) Temptation of Wife (2012 TV series)        | (False)",
+            "(7) Jamie Fraser (character)        | (False)",
+            "(8) Caitriona Balfe        | (False)",
+            "(9) Outlander (TV series)        | (False)",
+            "(10) List of Outlander episodes        | (False)"
+        ]
+    },
+    {
+        "id": 170,
+        "question": "For what ogranization does a commentator of Press TV serve as associate director?",
+        "answer": "Henry Jackson Society",
+        "passages": [
+            "(1) Douglas Murray (author)        | (True)",
+            "(2) Press TV controversies        | (False)",
+            "(3) Francis J. Beckwith        | (False)",
+            "(4) George Weinstock        | (False)",
+            "(5) Richard D. Cummings        | (False)",
+            "(6) Jeanetta Laurence        | (False)",
+            "(7) Carole Hayman        | (False)",
+            "(8) Murray Esler        | (False)",
+            "(9) Julie Huber        | (False)"
+        ]
+    },
+    {
+        "id": 171,
+        "question": "What else was Baghdad known as during the Abbasid Caliphate?",
+        "answer": "the City of Peace",
+        "passages": [
+            "(1) Sinbad the Sailor        | (False)",
+            "(2) Battle of Hama        | (False)",
+            "(3) Abna' al-dawla        | (False)",
+            "(4) The Last Voyage of Somebody the Sailor        | (True)",
+            "(5) Bajkam        | (False)",
+            "(6) Sa'id ibn Makhlad        | (False)",
+            "(7) Nahrawan Canal        | (False)"
+        ]
+    },
+    {
+        "id": 172,
+        "question": "Leonard Logsdail had a cameo role in the biographical film directed by whom?",
+        "answer": "Martin Scorsese",
+        "passages": [
+            "(1) In My Sleep        | (False)",
+            "(2) Cameo appearance        | (True)",
+            "(3) The Cool Ones        | (False)",
+            "(4) Leonard Logsdail        | (True)",
+            "(5) The Life of Emile Zola        | (False)",
+            "(6) Ajab Gazabb Love        | (False)",
+            "(7) Shiva Mecchida Kannappa        | (False)",
+            "(8) Adhu        | (False)",
+            "(9) The Wolf of Wall Street (2013 film)        | (True)"
+        ]
+    },
+    {
+        "id": 173,
+        "question": "Which composer was wrote his music most recently, Michael Tippett or Luigi Cherubini?",
+        "answer": "Michael Kemp Tippett",
+        "passages": [
+            "(1) Michael Tippett School        | (False)",
+            "(2) François-Benoît Hoffman        | (False)",
+            "(3) Luigi Cherubini        | (False)",
+            "(4) Michael Tippett        | (True)"
+        ]
+    },
+    {
+        "id": 174,
+        "question": "The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?",
+        "answer": "Babylon",
+        "passages": [
+            "(1) Varugad        | (False)",
+            "(2) Zhengyangmen        | (False)",
+            "(3) Striding Lion        | (True)",
+            "(4) Chongwenmen        | (False)",
+            "(5) New Town, Tasmania        | (False)",
+            "(6) Ishtar Gate        | (True)",
+            "(7) Remuera        | (False)",
+            "(8) Panel with striding lion        | (True)"
+        ]
+    },
+    {
+        "id": 175,
+        "question": "What Lithuanian producer is best known for a song that was one of the most popular songs in Ibiza in 2014?",
+        "answer": "Ten Walls",
+        "passages": [
+            "(1) I Hate Everything About You        | (False)",
+            "(2) Working Day and Night        | (False)",
+            "(3) 1000 Song Challenge        | (False)",
+            "(4) List of number-one dance singles of 2011 (U.S.)        | (False)",
+            "(5) Daasebre Gyamenah        | (False)",
+            "(6) Selena singles discography        | (False)",
+            "(7) Ten Walls        | (True)",
+            "(8) Walking with Elephants        | (True)",
+            "(9) Do You Realize??        | (False)"
+        ]
+    },
+    {
+        "id": 176,
+        "question": "John Paesano wrote which film for DreamWorks Dragons?",
+        "answer": "Dragons: Riders of Berk",
+        "passages": [
+            "(1) Spirit: Stallion of the Cimarron        | (False)",
+            "(2) John Paesano        | (False)",
+            "(3) Gift of the Night Fury        | (False)",
+            "(4) Shrek the Third        | (False)",
+            "(5) DreamWorks Dragons        | (True)",
+            "(6) How to Train Your Dragon (franchise)        | (True)"
+        ]
+    },
+    {
+        "id": 177,
+        "question": "The player who laid motionless for ten minutes in the Todd Bertuzzi–Steve Moore incident was born in which year ?",
+        "answer": "1978",
+        "passages": [
+            "(1) Too Many Cooks (TV series)        | (False)",
+            "(2) La cuisine en dix minutes        | (False)",
+            "(3) West Coast Express (ice hockey)        | (False)",
+            "(4) Steve Moore (ice hockey)        | (True)",
+            "(5) Ten Minutes (The Get Up Kids song)        | (False)",
+            "(6) Todd Bertuzzi–Steve Moore incident        | (False)",
+            "(7) Alpha and Omega (film)        | (False)",
+            "(8) Ten Minutes Older        | (True)",
+            "(9) ATM 2000E        | (False)"
+        ]
+    },
+    {
+        "id": 178,
+        "question": "Who had the lowest vocal range in Cosmos?",
+        "answer": "Jānis Strazdiņš",
+        "passages": [
+            "(1) Vocal fry register        | (False)",
+            "(2) Bass (voice type)        | (False)",
+            "(3) Basso profondo        | (False)",
+            "(4) Cosmos (band)        | (True)",
+            "(5) Cosmos Holidays        | (False)",
+            "(6) List of basses in non-classical music        | (False)",
+            "(7) Alto        | (False)",
+            "(8) List of contraltos in non-classical music        | (False)",
+            "(9) Georgia Brown (Brazilian singer)        | (False)",
+            "(10) Range (music)        | (False)"
+        ]
+    },
+    {
+        "id": 179,
+        "question": "Havelock Ellis and Arnold Bennett were both what?",
+        "answer": "writer",
+        "passages": [
+            "(1) Arnold Bennett        | (True)",
+            "(2) Mermaid Series        | (False)",
+            "(3) John Dicks (publisher)        | (False)",
+            "(4) Havelock Ellis        | (True)"
+        ]
+    },
+    {
+        "id": 180,
+        "question": "In 135 BC, a second campaign was sent to intervene in a war between Minyue and another ancient kingdom established at the collapse of whom?",
+        "answer": "the Qin dynasty",
+        "passages": [
+            "(1) Nanyue        | (True)",
+            "(2) Han campaigns against Minyue        | (False)",
+            "(3) Ballaios        | (False)",
+            "(4) List of solar eclipses in the 2nd century BC        | (False)",
+            "(5) Dong'ou Kingdom        | (False)",
+            "(6) Dian Kingdom        | (False)",
+            "(7) Go dynasty        | (False)"
+        ]
+    },
+    {
+        "id": 181,
+        "question": "What title did the author of Det norske Theater's first production hold ?",
+        "answer": "Baron of Holberg",
+        "passages": [
+            "(1) Det Norske Jernkompani        | (False)",
+            "(2) Det norske Theater (Bergen)        | (False)",
+            "(3) Språkåret 2013        | (False)",
+            "(4) Ludvig Holberg        | (True)",
+            "(5) Lucie Wolf        | (False)",
+            "(6) The Feast at Solhaug        | (False)",
+            "(7) Per Sunderland        | (False)",
+            "(8) Nynorsk Literature Prize        | (False)",
+            "(9) Svein Tindberg        | (False)",
+            "(10) Aloysius Valente        | (False)"
+        ]
+    },
+    {
+        "id": 182,
+        "question": "Where did the punter for the Dallas Cowboys in the 1980s play college football?",
+        "answer": "Arizona State University",
+        "passages": [
+            "(1) Jim Miller (punter)        | (False)",
+            "(2) Filip Filipović (American football)        | (False)",
+            "(3) Jerry Tubbs        | (False)",
+            "(4) Jason Garrett        | (False)",
+            "(5) Fake field goal        | (False)",
+            "(6) Cornell Green (defensive back)        | (False)",
+            "(7) Rico Gathers        | (False)",
+            "(8) John Jett        | (False)",
+            "(9) Danny White        | (True)",
+            "(10) Todd Lowber        | (False)"
+        ]
+    },
+    {
+        "id": 183,
+        "question": "Are Dutch Smoushond and Sussex Spaniel's both dog breeds?",
+        "answer": "yes",
+        "passages": [
+            "(1) Toy Trawler Spaniel        | (False)",
+            "(2) Sussex Spaniel        | (True)",
+            "(3) Welsh Springer Spaniel        | (True)",
+            "(4) Breed group (dog)        | (False)",
+            "(5) Dutch Smoushond        | (False)",
+            "(6) Griffon        | (False)",
+            "(7) American Cocker Spaniel        | (True)",
+            "(8) Vulnerable Native Breeds        | (False)",
+            "(9) Tugou        | (True)",
+            "(10) Picardy Spaniel        | (False)"
+        ]
+    },
+    {
+        "id": 184,
+        "question": "Which band, Matthew Good Band or Switchfoot is still together?",
+        "answer": "Switchfoot",
+        "passages": [
+            "(1) In a Coma        | (False)",
+            "(2) Matthew Good discography        | (False)",
+            "(3) Matthew Good Band        | (False)",
+            "(4) Switchfoot        | (True)",
+            "(5) Raygun (album)        | (False)",
+            "(6) Rich Priske        | (False)",
+            "(7) Weapon (song)        | (False)",
+            "(8) Ian Browne (musician)        | (False)",
+            "(9) Yes to Everything        | (False)"
+        ]
+    },
+    {
+        "id": 185,
+        "question": "Are Portland International Airport and Gerald R. Ford International Airport both located in Oregon?",
+        "answer": "no",
+        "passages": [
+            "(1) Portland International Airport MAX Station        | (True)",
+            "(2) Gerald R. Ford International Airport        | (True)",
+            "(3) Portland International Airport        | (True)",
+            "(4) United Airlines Flight 173        | (True)",
+            "(5) Portland International Airport carpet        | (True)",
+            "(6) PenAir        | (True)",
+            "(7) Pan Am Flight 845/26        | (True)",
+            "(8) Pre-Commissioning Unit        | (True)",
+            "(9) Twin Cities Air Service        | (False)"
+        ]
+    },
+    {
+        "id": 186,
+        "question": "Who won more awards, Brothers Quay or Jake Kasdan?",
+        "answer": "Brothers Quay",
+        "passages": [
+            "(1) Bad Teacher        | (False)",
+            "(2) Pilot (New Girl)        | (False)",
+            "(3) The Piano Tuner of Earthquakes        | (True)",
+            "(4) Sex Tape (film)        | (False)",
+            "(5) Jake Kasdan        | (False)",
+            "(6) Brothers Quay        | (True)",
+            "(7) Speechless (TV series)        | (False)",
+            "(8) Walk Hard: The Dewey Cox Story        | (False)",
+            "(9) Weird Loners        | (False)"
+        ]
+    },
+    {
+        "id": 187,
+        "question": "How long is the river The Atherton Bridge spans?",
+        "answer": "37.5",
+        "passages": [
+            "(1) Pit River Bridge        | (False)",
+            "(2) Atherton Bridge        | (False)",
+            "(3) Walnut Street Bridge (Chattanooga)        | (False)",
+            "(4) Nashua River        | (True)",
+            "(5) Colorado River Bridge at Bastrop        | (False)",
+            "(6) Miami Bridge        | (False)",
+            "(7) Monocacy River bridge and viaduct        | (False)",
+            "(8) Port Mann Bridge        | (False)",
+            "(9) Columbia River Bridge (Bridgeport, Washington)        | (False)",
+            "(10) Maiden Lane Bridge        | (False)"
+        ]
+    },
+    {
+        "id": 188,
+        "question": "Why is Bangor Daily News talkin about Sawin Millett?",
+        "answer": "Commissioner by the Maine Senate",
+        "passages": [
+            "(1) Redwood City Daily News        | (False)",
+            "(2) Sawin Millett        | (True)",
+            "(3) Burlingame Daily News        | (False)",
+            "(4) East Bay Daily News        | (False)",
+            "(5) Bangor Daily News        | (False)",
+            "(6) Lawrence Lockman        | (False)",
+            "(7) Ralph W. 'Bud' Leavitt Jr.        | (False)",
+            "(8) The Daily News (Palo Alto)        | (False)",
+            "(9) Mildred Brown Schrumpf        | (False)",
+            "(10) San Mateo Daily News        | (False)"
+        ]
+    },
+    {
+        "id": 189,
+        "question": "Who did the actor that plays Sean Tully defeat in a dancing contest?",
+        "answer": "Jodie Prenger",
+        "passages": [
+            "(1) Salsa (1988 film)        | (False)",
+            "(2) 2014 St Helens RLFC season        | (False)",
+            "(3) Showmatch        | (False)",
+            "(4) Sean Tully        | (False)",
+            "(5) Mira quién baila        | (False)",
+            "(6) Antony Cotton        | (False)",
+            "(7) Motofuji Akiko        | (False)",
+            "(8) Nach Baliye        | (False)",
+            "(9) Christian Clarke        | (False)"
+        ]
+    },
+    {
+        "id": 190,
+        "question": "What river does Waterloo Bridge and London Eye have in common?",
+        "answer": "Thames",
+        "passages": [
+            "(1) London Eye Pier        | (True)",
+            "(2) Garden Bridge        | (True)",
+            "(3) York Road, Lambeth        | (True)",
+            "(4) Waterloo Bridge (1940 film)        | (False)",
+            "(5) Waterloo Bridge        | (True)",
+            "(6) London Eye        | (True)",
+            "(7) Waterloo Bridge (play)        | (False)",
+            "(8) Savoy Place        | (True)",
+            "(9) Waterloo Helmet        | (True)",
+            "(10) Waterloo Road, London        | (True)"
+        ]
+    },
+    {
+        "id": 191,
+        "question": "Which is a beauty magazine, Allure or Claudia?",
+        "answer": "Allure",
+        "passages": [
+            "(1) Nüyou        | (False)",
+            "(2) List of Allure cover models        | (True)",
+            "(3) Alfredo Hoyos (doctor)        | (False)",
+            "(4) Allure (magazine)        | (True)",
+            "(5) List of W Korea cover models        | (False)",
+            "(6) Anders Manga        | (False)",
+            "(7) Claudia (magazine)        | (False)",
+            "(8) Beautycounter        | (True)",
+            "(9) Betty Irabor        | (False)",
+            "(10) Elle Girl        | (False)"
+        ]
+    },
+    {
+        "id": 192,
+        "question": "Which American actor portray Steve Urkel in \"Family Matters\"",
+        "answer": "Jaleel Ahmad White",
+        "passages": [
+            "(1) American Nerd        | (False)",
+            "(2) Steve Urkel        | (False)",
+            "(3) Family Matters        | (False)",
+            "(4) Michelle Thomas        | (False)",
+            "(5) Boy Meets World (season 2)        | (False)",
+            "(6) Twenty Vicodin        | (False)",
+            "(7) Shawn Harrison (actor)        | (False)",
+            "(8) Total Blackout        | (False)",
+            "(9) Jaleel White        | (True)"
+        ]
+    },
+    {
+        "id": 193,
+        "question": "What lake in Australia is named after a Scottish Knight?",
+        "answer": "Lake Wallace",
+        "passages": [
+            "(1) William Wallace        | (False)",
+            "(2) William Wallace (disambiguation)        | (False)",
+            "(3) William Keith of Galston        | (False)",
+            "(4) Lake Wallace        | (True)",
+            "(5) David de Inchmartin        | (False)",
+            "(6) John de Seton        | (False)",
+            "(7) William Oliphant (died after 1313)        | (False)",
+            "(8) Bernard de Monte Alto        | (False)",
+            "(9) Reginald Crawford (died 1307)        | (False)",
+            "(10) David, Lord of Brechin        | (False)"
+        ]
+    },
+    {
+        "id": 194,
+        "question": "How many records did the singer who sang \"Four Seasons of Love\" sell worldwide?",
+        "answer": "140 million",
+        "passages": [
+            "(1) You're the Apple of My Eye        | (False)",
+            "(2) Dawn (Go Away)        | (False)",
+            "(3) Watch the Flowers Grow        | (False)",
+            "(4) Gloaming (horse)        | (False)",
+            "(5) Four Seasons of Love        | (False)",
+            "(6) The Wonder Who?        | (False)",
+            "(7) Donna Summer        | (False)"
+        ]
+    },
+    {
+        "id": 195,
+        "question": "what is the group called that Dianne Morgan and Joe Wilkinson a part of in the BBC comedy \"Two Episodes of Mash\"",
+        "answer": "the deadpan sketch group",
+        "passages": [
+            "(1) Live at the Electric        | (False)",
+            "(2) Start-rite        | (False)",
+            "(3) Nora Lewin        | (False)",
+            "(4) Lucy Davis        | (False)",
+            "(5) Diane Morgan        | (False)",
+            "(6) My Family (series 10)        | (False)",
+            "(7) David Earl (actor)        | (False)",
+            "(8) 7 Day Sunday        | (False)",
+            "(9) John Jackson (writer)        | (False)",
+            "(10) Egypt (TV series)        | (False)"
+        ]
+    },
+    {
+        "id": 196,
+        "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+        "answer": "1998",
+        "passages": [
+            "(1) 6th National Hockey League All-Star Game        | (False)",
+            "(2) 63rd National Hockey League All-Star Game        | (False)",
+            "(3) 53rd National Hockey League All-Star Game        | (False)",
+            "(4) 47th National Hockey League All-Star Game        | (False)",
+            "(5) 52nd National Hockey League All-Star Game        | (True)",
+            "(6) NBL Canada All-Star Game        | (False)",
+            "(7) NHL All-Star Skills Competition        | (False)",
+            "(8) BB&amp;T Center (Sunrise, Florida)        | (True)",
+            "(9) 58th National Hockey League All-Star Game        | (False)",
+            "(10) 23rd National Hockey League All-Star Game        | (False)"
+        ]
+    },
+    {
+        "id": 197,
+        "question": "What is the first name of the author who wrote the play in which Rønnaug Alten made her stage debut at Den Nationale Scene in 1930 as \"Viola\"?",
+        "answer": "William",
+        "passages": [
+            "(1) Rasmus Rasmussen (actor)        | (False)",
+            "(2) Morten Borgersen        | (False)",
+            "(3) Bjarte Hjelmeland        | (False)",
+            "(4) Karl Bergmann        | (False)",
+            "(5) Den Nationale Scene        | (False)",
+            "(6) Rønnaug Alten        | (False)",
+            "(7) Viola (Twelfth Night)        | (True)",
+            "(8) Gustav Thomassen        | (False)",
+            "(9) Kolbjørn Buøen        | (False)",
+            "(10) Thomas Thomassen        | (False)"
+        ]
+    },
+    {
+        "id": 198,
+        "question": "Which artist is known for his work on Marvel Team-Up and Batman: Son of the Demon?",
+        "answer": "Gerald \"Jerry\" Joseph Bingham, Jr.",
+        "passages": [
+            "(1) Arcade (Marvel Comics)        | (False)",
+            "(2) Ultimate Nick Fury        | (False)",
+            "(3) List of Spider-Man enemies        | (False)",
+            "(4) Batman: Son of the Demon        | (False)",
+            "(5) Jerry Bingham        | (False)",
+            "(6) Marvel Team-Up        | (False)",
+            "(7) Superior Spider-Man Team-Up        | (False)",
+            "(8) Ultimate Marvel Team-Up        | (False)"
+        ]
+    },
+    {
+        "id": 199,
+        "question": "Are both Kaiping and Pingxiang, Guangxi located in Guandong Province?",
+        "answer": "no",
+        "passages": [
+            "(1) Qingsheng Railway Station        | (False)",
+            "(2) Pingxiang, Guangxi        | (True)",
+            "(3) G7211 Nanning–Youyiguan Expressway        | (True)",
+            "(4) Guandong, Guangxi        | (False)",
+            "(5) Tonghe Station        | (False)",
+            "(6) Kaiping        | (True)",
+            "(7) Hunan–Guangxi Railway        | (True)",
+            "(8) Ruyifang Station        | (False)",
+            "(9) Diaolou        | (True)",
+            "(10) Huaxia Art Centre        | (True)"
+        ]
+    }
+]

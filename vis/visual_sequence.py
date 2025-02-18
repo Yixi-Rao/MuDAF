@@ -26,12 +26,9 @@ def load_hf_model(model_name):
     
     return model
 
-# DEFAULT_EOS = [". ", "! ", "? ", "\n"]
 DEFAULT_EOS = ["</", "\n"]
 
 def preprocess(text, use_default_eos):
-    # 分离出第一句话
-    # 排除 Mr. Mrs. Dr. 等缩写的干扰
     if use_default_eos:
         EOS_str = DEFAULT_EOS
     else:
@@ -46,12 +43,11 @@ def preprocess(text, use_default_eos):
     return text
 
 if __name__ == '__main__':
-    
     argparser = ArgumentParser()
-    argparser.add_argument("--check_file", type=str, default="results/longbench_hotpotqa_result_llama3.1_qk_contrast_n.score.json")
-    argparser.add_argument("--prompt_file", type=str, default="hotpotqa_e_inputs.jsonl", required=True)
+    argparser.add_argument("--check_file", type=str, default="results/longbench_hotpotqa_result_Llama3.1-8B-MuDAF.score.json")
+    argparser.add_argument("--prompt_file", type=str, default="hotpotqa_inputs.jsonl", required=True)
     argparser.add_argument("--dataset", type=str, default="hotpotqa")
-    argparser.add_argument("--model", type=str, default="/data/local/EQnA_STCA/Users/v-weihaoliu/models/Llama-3.1-8B-Instruct")
+    argparser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
     argparser.add_argument("--use_default_eos", action="store_true", default=False)
     argparser.add_argument("--save_suffix", type=str, default=None)
     argparser.add_argument("--chunk_size", type=int, default=64)
@@ -75,15 +71,12 @@ if __name__ == '__main__':
     total_nums = len(prompts)
     max_length = 0
     
-    # SELECTED_IDS = [0, 6, 14, 19, 25, 27, 28, 38, 41, 159, 175, 183]
     SELECTED_IDS = [10, 15]
     
     for i in SELECTED_IDS:
         item = json_data[i]
         prompt = prompts[i]
         print(f"Start Visulizing... {i} Length: {len(prompt)}")
-        # meta_info = item['meta_info']
-        # meta_info['chunk_size'] = args.chunk_size
         question = prompt.split("Question:")[1].split("Answer:")[0].strip()
         inputs = tokenizer(prompt, return_tensors="pt")
         

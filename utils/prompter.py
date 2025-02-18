@@ -8,8 +8,6 @@ prompt_format = {
     "multifieldqa_en": "Read the following text and answer briefly.\n\n{context}\n\nNow, answer the following question based on the above text, only give me the answer and do not output any other words.\n\nQuestion: {input}\nAnswer:",
     "multifieldqa_zh": "阅读以下文字并用中文简短回答：\n\n{context}\n\n现在请基于上面的文章回答下面的问题，只告诉我答案，不要输出任何其他字词。\n\n问题：{input}\n回答：",
     "hotpotqa": "Answer the question based on the given passages. Only give me the answer and do not output any other words.\n\nThe following are given passages.\n{context}\n\nAnswer the question based on the given passages. Only give me the answer and do not output any other words.\n\nQuestion: {input}\nAnswer:",
-    # "hotpotqa": "Question: {input}\nAnswer:",
-    # "hotpotqa": "<s> Based on the following passages, answer the question.\n{context}\n\nQuestion: {input}\nAnswer:",
     "2wikimqa": "Answer the question based on the given passages. Only give me the answer and do not output any other words.\n\nThe following are given passages.\n{context}\n\nAnswer the question based on the given passages. Only give me the answer and do not output any other words.\n\nQuestion: {input}\nAnswer:",
     "musique": "Answer the question based on the given passages. Only give me the answer and do not output any other words.\n\nThe following are given passages.\n{context}\n\nAnswer the question based on the given passages. Only give me the answer and do not output any other words.\n\nQuestion: {input}\nAnswer:",
     "dureader": "请基于给定的文章回答下述问题。\n\n文章：{context}\n\n请基于上述文章回答下面的问题。\n\n问题：{input}\n回答：",
@@ -65,7 +63,6 @@ class LongBenchPromptBuilder:
             title = splited_passages[i].split("\n")[0]
             content = splited_passages[i].split("\n", 1)[1].strip()
             formated_passages.append(template.format(title=title, content=content))
-            # print(template.format(title=title, content=content))
         return "\n\n".join(formated_passages), input
     
     def build_prompt(self, data, fit_train = False):
@@ -80,8 +77,6 @@ class LongBenchPromptBuilder:
                 template = prompt_format[self.task_name]
                 context, input = item['context'], item['input']
             results.append(template.format(context=context, input=input))
-            # results.append(template.format(input=input)) # NOTE: directly_ask
-            # import pdb; pdb.set_trace()
         return results
 
 
