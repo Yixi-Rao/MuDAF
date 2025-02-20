@@ -4,7 +4,7 @@ This is the official repo for our paper ["MuDAF: Long-Context Multi-Document Att
 
 ## Introduction
 
-Long-context LLMs (LCLMs) can be easily distracted by irrelevant context, making them can't fully utilize their long-context capabilities. How can we make them more focused?
+Long-context LLMs (LCLMs) can be easily distracted by irrelevant context, making them unable to fully utilize their long-context capabilities. How can we make them more focused?
 
 In this work, we identify retrieval heads in multi-document question answering (MDQA), which can attend to golden passages for a given question and show patterns different from those found in the Needle-in-a-Haystack (NIAH) test.
 
