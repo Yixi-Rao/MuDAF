@@ -13,10 +13,14 @@ Our method can explicitly enhance the retrieval capabilities of models' attentio
 ![Method](imgs/method.png)
 
 
-Stay tuned for more content!
+<!-- Stay tuned for more content! -->
 
 
 <!-- ## Run
+
+### Attention Visualization for MDQA
+
+
 
 ### Retrieval Scores Calculation
 
@@ -26,4 +30,4 @@ Download LongBench datasets [here],
 
 ### Evaluation
 
-### Attention Visualization -->
+-->
