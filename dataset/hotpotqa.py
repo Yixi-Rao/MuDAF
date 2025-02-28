@@ -30,6 +30,7 @@ class HotpotQA(Dataset):
         # logger.info(f"Loading {self.dataset_name} data from {self.path}...")
         with open(self.path, "r") as f:
             lines = f.readlines()
+            
         data = [json.loads(line) for line in lines if len(json.loads(line)['negative'])>0]
         len_of_data = len(data)
         num_eval = int(len_of_data * 0.1)+1

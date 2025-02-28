@@ -15,7 +15,7 @@ while true; do
     fi
 
     DS_SKIP_CUDA_CHECK=1 deepspeed --num_gpus 8 \
-        --num_nodes 2 \
+        --num_nodes 3 \
         --master_port 9500 \
         --hostfile configs/hostfile \
         trainer.py \
