@@ -59,25 +59,20 @@ def preprocess(text, use_default_eos):
 if __name__ == '__main__':
     argparser = ArgumentParser()
     argparser.add_argument("--check_file", type=str, default="results/longbench_hotpotqa_result_Llama3.1-8B-MuDAF.score.json")
-    argparser.add_argument("--prompt_file", type=str, default="hotpotqa_inputs.jsonl", required=True)
+    argparser.add_argument("--prompt_file", type=str, required=True)
     argparser.add_argument("--dataset", type=str, default="hotpotqa")
     argparser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
     argparser.add_argument("--use_default_eos", action="store_true", default=False)
     argparser.add_argument("--save_suffix", type=str, default=None)
-    argparser.add_argument("--chunk_size", type=int, default=64)
+    argparser.add_argument("--chunk_size", type=int, default=-10)
     args = argparser.parse_args()
     
-    is_chat_model = True if "chat" in args.model.lower() or "instruct" in args.model.lower() or "-it" in args.model.lower() else False
     tokenizer     = AutoTokenizer.from_pretrained(args.model, trust_remote_code=True, use_fast=False)
     model         = load_hf_model(args.model)
     
     model_name = args.model.split("/")[-1]
     
-    if "checkpoint" in model_name:
-        model_name = args.model.split("/")[-2]
-    
     with open(args.prompt_file, 'r') as f:
-        # readlines
         lines   = f.readlines()
         prompts = [json.loads(line) for line in lines]
         
@@ -99,7 +94,6 @@ if __name__ == '__main__':
         
         inputs         = tokenizer(prompt, return_tensors="pt")
         tokenized_text = inputs['input_ids'][0]
-        attention_mask = inputs['attention_mask']
         
         max_length = max(len(tokenized_text), max_length)
             
@@ -107,7 +101,7 @@ if __name__ == '__main__':
         chunk_ids     = []
         
         while f"文档 [{passage_index}]" in prompt:
-            str_ids = prompt.index(f"文档 [{passage_index}]")
+            str_ids = prompt.index(f"文档 [{passage_index}] \n")
             p_ids   = len(tokenizer.encode(prompt[:str_ids]))
             
             chunk_ids.append(p_ids)

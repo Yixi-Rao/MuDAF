@@ -3,9 +3,7 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 import torch
 
@@ -167,10 +165,10 @@ def attention_viz(attentions, meta_info, tokenizer = None, save_dir = None):
             else:
                 chunk_size = "Undefined"
                 
-            prepoint      = 0  # 用来追踪当前处理段落开始位置，在每次循环，会更新为当前段落的结束位置，以确保处理下一个块。
+            prepoint      = 0                             # 用来追踪当前处理段落开始位置，在每次循环，会更新为当前段落的结束位置，以确保处理下一个块。
             attend_vector = np.zeros(len(chunk_ids) - 2)  # 用来标记段落总注意力值较高的段落
-            attended_info = []  # 对于每一层，每一个头，存储每个段落中注意力得分高的 token 的信息。
-            attn_list     = []  # 存储每个段落的注意力值总和。
+            attended_info = []                            # 对于每一层，每一个头，存储每个段落中注意力得分高的 token 的信息。
+            attn_list     = []                            # 存储每个段落的注意力值总和。
             
             #! 在每个段落 j 中计算注意力值（块内的所有权重之和）并保存到attn_list中。
             for j, point in enumerate(chunk_ids):
@@ -202,7 +200,7 @@ def attention_viz(attentions, meta_info, tokenizer = None, save_dir = None):
                         if output_token:
                             # 将 token 从 token ID 转换回原始文本
                             sorted_tokens = [tokenizer.decode([prompt[prepoint + idx]]) for idx in indexs]
-                            # 如果注意力值大于阈值，保存排序后的token和它们的注意力值
+                            # 如果注意力值大于阈值0.0001，保存排序后的token和它们的注意力值
                             sorted_list   = [f"({indexs[idx]}, {sorted_tokens[idx]})  =  {float(chunk[indexs[idx]])}" 
                                              for idx in range(len(indexs)) if chunk[indexs[idx]] > meta_info['threshold']]
                             
@@ -210,7 +208,7 @@ def attention_viz(attentions, meta_info, tokenizer = None, save_dir = None):
                                 "Position"        : j - 1,
                                 "Attention Value" : float(attention_value),
                                 "Sorted Tokens"   : sorted_list,
-                                "Text"            : tokenizer.decode(prompt[prepoint:point])
+                                "Text"            : tokenizer.decode(prompt[prepoint : point])
                             }
                             
                             attended_info.append(attended_item)
@@ -236,6 +234,10 @@ def attention_viz(attentions, meta_info, tokenizer = None, save_dir = None):
         num_heads = 32
         nrows = 8
         ncols = 4
+    elif head_num == 40:
+        num_heads = 40
+        nrows = 8
+        ncols = 5
     elif head_num == 28:
         num_heads = 28
         nrows = 7
@@ -279,7 +281,7 @@ def attention_viz(attentions, meta_info, tokenizer = None, save_dir = None):
     # 对每个注意力头的数据，计算注意力值的平均并绘制热图。
     # Add a big title for the entire figure
     fig.suptitle(
-        f'Attention Visualization - Context_lenght: {length}, Last_Token: {tokenizer.decode([prompt[-1]])}, Chunk_size: {chunk_size})',
+        f'Attention Visualization - Context_lenght: {length}, Last_Token: {tokenizer.decode([prompt[-1]])}, Chunk_size: {chunk_size}',
         fontsize=20
     )
     plt.tight_layout(rect=[0, 0, 1, 0.98])

@@ -238,6 +238,10 @@ def attention_viz(attentions, meta_info, tokenizer = None, save_dir = None):
         num_heads = 32
         nrows = 8
         ncols = 4
+    elif head_num == 40:
+        num_heads = 40
+        nrows = 8
+        ncols = 5
     elif head_num == 28:
         num_heads = 28
         nrows = 7

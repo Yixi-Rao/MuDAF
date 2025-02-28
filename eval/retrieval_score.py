@@ -3,7 +3,7 @@ import os
 from tqdm import tqdm
 
 MODEL_NAME = 'Qwen-2.5-32B'
-DATASET    = "CN_doc"
+DATASET    = "CNqa"
 
 NUM_LAYERS = 64
 NUM_HEADS  = 40
@@ -22,19 +22,20 @@ num_items        = 0
 
 for layer in range(NUM_LAYERS):
     for head in range(NUM_HEADS):
-        f1_scores[f"{layer}-{head}"] = []
-        recall_scores[f"{layer}-{head}"] = []
+        f1_scores[f"{layer}-{head}"]        = []
+        recall_scores[f"{layer}-{head}"]    = []
         precision_scores[f"{layer}-{head}"] = []
-        match_scores[f"{layer}-{head}"] = []
+        match_scores[f"{layer}-{head}"]     = []
         
 NEW_THRESHOLD = 0.3
 
-for index in tqdm(range(200)):
+for index in tqdm(range(len(golden_passages_ids))):
     golden_ids = [golden_passages_ids[index][0]]
     
     if os.path.exists(f"{save_dir}/{index}"):
         for layer in range(NUM_LAYERS):
             for head in range(NUM_HEADS):
+                
                 if os.path.exists(f"{save_dir}/{index}/{layer}-{head}/attended_tokens.json"):
                     with open(f"{save_dir}/{index}/{layer}-{head}/attended_tokens.json", "r") as f:
                         data = json.load(f)
@@ -75,8 +76,8 @@ for index in tqdm(range(200)):
                 f1_scores[f"{layer}-{head}"].append(f1)
                 match_scores[f"{layer}-{head}"].append(exact_match) 
 
-for layer in range(32):
-    for head in range(32):
+for layer in range(NUM_LAYERS):
+    for head in range(NUM_HEADS):
         precision_scores[f"{layer}-{head}"] = sum(precision_scores[f"{layer}-{head}"]) / len(precision_scores[f"{layer}-{head}"])
         recall_scores[f"{layer}-{head}"] = sum(recall_scores[f"{layer}-{head}"]) / len(recall_scores[f"{layer}-{head}"])
         f1_scores[f"{layer}-{head}"] = sum(f1_scores[f"{layer}-{head}"]) / len(f1_scores[f"{layer}-{head}"])
